@@ -7,8 +7,7 @@ Knowledge alone should be equal. [nate9389@gmail.com](mailto:nate9389@gmail.com)
 This is a blog that started out as a diary (since 2009). However, through this blog, I became special and I wanted to communicate with the world through this blog. Then, while watching the match between Lee Se-dol and AlphaGo in 2016, I wanted to sketch a tree **about** human knowledge on this blog. And now, I would like to complete this project in earnest.
 
 
-
-#### **Aim** 1**.** Realize the democratization of **knowledge**
+## **2\. Aim** 1**.** Realize the democratization of **knowledge**
 
 ○ Because education is no longer equal...
 
@@ -29,8 +28,7 @@ This is a blog that started out as a diary (since 2009). However, through this b
 > In an era where AI dominates AI, the collapse of capitalism will accelerate and return to a self-sufficient society will proceed. For those who are lagging behind this era, democratization of knowledge is essential.
 
 
-
-#### **Aim 2.** prevention of human cognitive saturation
+## **3\. Aim** 2**.** prevention of human cognitive saturation
 
 ○ The **arrival** of singularity: It is expected that the speed at which knowledge accumulates will be faster than the speed at which mankind understands it in the next 50 years.
 
@@ -66,7 +64,7 @@ This is a blog that started out as a diary (since 2009). However, through this b
 
 
 
-#### **Aim** 3. Attempt to preserve human knowledge
+## **4\. Aim** 3**.**Attempt to preserve human knowledge
 
 ○ Immediately after the collapse of the ancient Roman Empire, the vast technology possessed by the Roman Empire was lost.
 
@@ -100,7 +98,7 @@ The animation of Dr. Stone also showed me a similar idea.
 
 
 
-#### **Aim** 4. Accelerating Knowledge Acquisition
+## **5\. Aim** 4**.** Accelerating Knowledge Acquisition
 
 ○ The tempo of music is fast, and fast and repetitive videos like TikTok become popular, so wouldn't it be future-oriented to quickly acquire knowledge?
 
