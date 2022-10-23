@@ -12,47 +12,47 @@ This is a blog that started out as a diary (since 2009). However, through this b
 
 ○ Because education no longer shows hope and dreams...
 
-○ A new change in World that is getting sick...
+○ World is getting sick...
 
 ○ People often get frustrated because they find it difficult to study or spend a lot of time unnecessarily.
 
-○ There were many cases where I didn't fully enjoy the pleasure of satisfying my desire for knowledge.
+○ There were many cases where people didn't fully enjoy the pleasure of satisfying my desire for knowledge.
 
-○ 막대한 교육비용 지출이 대한민국을 병들게 하므로 강력한 대책이 강구됩니다.○ Strong measures are taken because enormous educational expenses make Korea sick.
+○ Strong measures need to be taken because enormous educational expenses make Korea sick.
 
-○ **그런데**, 모든 분야에 대한 최종적이고 최고의 지식 체계를 공개한다 해도 대한민국의 교육열이 낮아질 것인가?○ **By** the way, will Korea's enthusiasm for education be lowered even if the final and best knowledge system for all fields is disclosed?
+○ **By** the way, will World's enthusiasm for education be lowered even if the final and best knowledge system for all fields is disclosed?
 
-○ **아보카도중독자** 님의 첨언 ○Advice **from** Avocado Addict
+○ Advice **from** Avocado Addict
 
-> AI가 AI를 지배하는 시대에 자본주의의 붕괴는 가속화되고 자급자족 사회로의 회귀가 진행될 것이다.In an era where AI dominates AI, the collapse of capitalism will accelerate and return to a self-sufficient society will proceed. 이 시대에 뒤처지는 이들을 위해 지식의 민주화는 반드시 필요하다.For those who are lagging behind this era, democratization of knowledge is essential.
+> In an era where AI dominates AI, the collapse of capitalism will accelerate and return to a self-sufficient society will proceed. For those who are lagging behind this era, democratization of knowledge is essential.
 
-#### **목적 2.Purpose 2.** 인류의 인지 포화상태의 방지 prevention of human cognitive saturation
+#### **Purpose 2.** prevention of human cognitive saturation
 
-○ **특이점** 도래 **:** 인류가 지식을 이해하는 속도보다 지식이 쌓이는 속도가 빨라지는 시점은 앞으로 50년 후로 예상됨 **○** The **arrival** of singularity: It is expected that the speed at which knowledge accumulates will be faster than the speed at which mankind understands it in the next 50 years.
+○ The **arrival** of singularity: It is expected that the speed at which knowledge accumulates will be faster than the speed at which mankind understands it in the next 50 years.
 
-○ information explosion **:** 현재에도 IT 정보와 바이오 정보의 폭발적 증가가 우려됨○ Information expansion**:** There is still concern about explosive growth of IT and bio information.
+○ Information expansion **:** There is still concern about explosive growth of IT and bio information.
 
-○ IT 정보 포화의 방지 **:** IT 산업계와 협력을 도모함**○**Prevention of saturation of IT information: To cooperate with the IT industry
+○ Prevention of saturation of IT information **:** To cooperate with the IT industry
 
-○ 바이오 정보 포화의 방지 **:** 연구계와 협력을 도모함.**○**Prevention of saturation of bio-information: To cooperate with the research community. 유전자를 중심으로 체계를 세울 수 있을 것으로 기대expect to establish a gene-centered system
+○ ○ Prevention of saturation of bio-information **:** To cooperate with the research community. It is expected to establish a gene-centered system.
 
-○ 어떻게 1인이 인류의 지식 총량을 모두 모을 수 있는가?○ How can one person collect all the knowledge of mankind?
+○ How can one person collect all the knowledge of mankind?
 
-○ **해답 1.** **크라우드 소싱 모델** **:** 다수에 의한 지식의 수집 및 공유의 비즈니스 모델 구축○ **Answer 1**. **Crowd sourcing model\*\***:\*\* Build a business model for collecting and sharing knowledge by the majority
+○ **Answer 1**. **Crowd sourcing model\*\***:\*\* Build a business model for collecting and sharing knowledge by the majority
 
-○ 경제사를 공부하다 보면 알게 되는 가장 중요한 결론.○The most important conclusion you will find while studying economic history. 이 세계는 언제나 수확체증의 법칙을 보여주었다.The world has always demonstrated the law of stagnant harvests. 인구의 증가가 비가역적인 기술 발전을 일으켰고 사람들의 생활은 더 풍족해졌다.The increase in population led to irreversible technological development and people's lives became richer. 그렇다면 지식도 공유할수록 사람들이 모일 것이고, 모여든 사람들이 더 많은 지식을 창출하지 않을까?Then, the more knowledge you share, the more people gather, and the more knowledge you gather, the more knowledge you create?
+○ The most important conclusion you will find while studying economic history. The world has always demonstrated the law of stagnant harvests. The increase in population led to irreversible technological development and people's lives became richer. Then, the more knowledge you share, the more people gather, and the more knowledge you gather, the more knowledge you create?
 
-○ 현재 위키백과, Github, 네이버 지식in 등 공지의 BM 모델이 잘 알려져 있다.○ Currently, known BM models such as Wikipedia, Github, and Naver Knowledgein are well known.
+○ Currently, known BM models such as Wikipedia, Github, and Naver Knowledgein are well known.
 
-○ **해답 2.** **AI 인공지능 모델** **:** 살아있고 진화하는 글에 대한 구상○ **Answer 2**. **AI Artificial Intelligence** Model**:** An idea of living and evolving writing
+○ **Answer 2**. **AI Artificial Intelligence** Model**:** An idea of living and evolving writing
 
-○ 제가 쓰려는 글은 일반적인 줄글이 아닙니다.○What I'm going to write is not a typical sentence. 그래서 글 작가들의 일자리를 뺏지는 않을 것입니다.So I won't take away the jobs of writers.
+○ What I'm going to write is not a typical sentence. So I won't take away the jobs of writers.
 
-○ **해답 3.** **소셜 네트워킹 모델** **:** 점 조직 형태의 네트워크 구축○ **Answer** 3. **Social networking model\*\***:\*\* Building a network in the form of a point organization
+○ **Answer 3.** **Social networking model\*\***:\*\* Building a network in the form of a point organization
 
-○ ○ 제가 생각하는 비즈니스 모델은 점 조직으로 구성된 형태입니다.The business model I think of is a form of branch organization. 대기업에서 채택하는 수직적 계층은 개인의 자아실현 욕구가 강해진 현대에 적합하지 않다는 진단입니다.The vertical class adopted by large companies is a diagnosis that is not suitable for modern times when individuals' desire for self-realization has become stronger. 수직적 계층보다는 일대일로 사적 계약을 형성하여 1인이 네트워킹의 중심이 되는 전략을 구상하고 있습니다.We are planning a strategy in which one person becomes the center of networking by forming a one-on-one private contract rather than a vertical class. 이것이 최초부터 상장까지 함께한 스타트업에서 제가 보고 느낀 점입니다.This is what I saw and felt at the startup that I was with from the beginning to the listing.
+○ The business model I think of is a form of branch organization. The vertical class adopted by large companies is a diagnosis that is not suitable for modern times when individuals' desire for self-realization has become stronger. We are planning a strategy in which one person becomes the center of networking by forming a one-on-one private contract rather than a vertical class. This is what I saw and felt at the startup that I was with from the beginning to the listing.
 
-○○ **해답 4. 지식에 대한 통찰Answer 4. Insights on Knowledge**
+○ **Answer 4.** Insights on Knowledge
 
 ○○ core concept는 전체 지식 중 **적은 비율로 존재**한다는 점에서 착안The core concept is based on the fact that there is a **small** percentage of the **total** knowledge.
 
@@ -111,6 +111,7 @@ This is a blog that started out as a diary (since 2009). However, through this b
 ○○ **'23. 02월 "February, 23.**中 "법은 만인 앞에서 평등해야 한다" 프로젝트 개시 **:** 법조항 간의 연결관계를 시각화 '**"**The law must be equal in front of everyone" project commenced: Visualizing the connection between legal provisions.
 
 ○ **'23. 04월** 中 AI 챌린지 참가**○ Participated** in the AI Challenge in April**, 23**.
+
 
 ## **3\. 구상 2.3. Initiative 2.** 컨텐츠 획득 관련 content acquisition-related
 
