@@ -112,6 +112,7 @@ This is a blog that started out as a diary (since 2009). However, through this b
 
 ○ **'23. 04월** 中 AI 챌린지 참가**○ Participated** in the AI Challenge in April**, 23**.
 
+---
 
 ## **3\. 구상 2.3. Initiative 2.** 컨텐츠 획득 관련 content acquisition-related
 
