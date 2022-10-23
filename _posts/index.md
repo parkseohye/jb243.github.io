@@ -2,7 +2,7 @@
 
 Kim, S.K., Park, J.B. (2022) FESTBOOK MEDIA. 979-11-92302-44-7 95410 (2nd ed)
 
-[##_Image|kage@LFvtB/btrN4Qit9lM/wjm6iBKqudPrKFqsVLtCZ1/img.png|CDM|1.3|{"originWidth":592,"originHeight":840,"style":"floatRight","width":443,"height":629,"link":"http://www.yes24.com/Product/Goods/108232912","isLinkNewWindow":true,"filename":"img.png"}_##]
+[![](https://blog.kakaocdn.net/dn/LFvtB/btrN4Qit9lM/wjm6iBKqudPrKFqsVLtCZ1/img.png)](http://www.yes24.com/Product/Goods/108232912)
 
 **Ⅰ. Combinatorics  
 **
