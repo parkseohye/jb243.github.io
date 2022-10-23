@@ -1,6 +1,6 @@
 ![](https://blog.kakaocdn.net/dn/cmv0gC/btryQ1Mv0IE/Va1tYGgUqdbKjDBigaP87K/img.jpg)
 
-Knowledge alone should be equal. [nate9389@gmail.com](mailto:nate9389@gmail.com)
+Knowledge must be equal. [nate9389@gmail.com](mailto:nate9389@gmail.com)
 
 ## **Before entering,**
 
