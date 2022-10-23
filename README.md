@@ -1,22 +1,22 @@
 ![](https://blog.kakaocdn.net/dn/cmv0gC/btryQ1Mv0IE/Va1tYGgUqdbKjDBigaP87K/img.jpg)
 
-지식만은 평등해야 한다.Knowledge alone should be equal. nate9389@gmail.comnate9389@gmail.com
+Knowledge alone should be equal. nate9389@gmail.com
 
-**1\. 들어가기에 앞서1. Before entering,**
+**1. Before entering,**
 
-처음에는 일기장처럼 시작한 블로그입니다 (since 2009).This is a blog that started out as a diary (since 2009). 그런데 이 블로그를 통해 저라는 사람이 특별해졌고, 이 블로그를 통해 세상과 소통하고 싶어졌습니다.However, through this blog, I became special and I wanted to communicate with the world through this blog. 그러다가 2016년 이세돌과 알파고의 매치를 보면서 이 블로그에 인류의 지식에 대한 **트리**를 스케치하고 싶었습니다.Then, while watching the match between Lee Se-dol and AlphaGo in 2016, I wanted to sketch a tree **about** human knowledge on this blog. 그리고 이제 이 프로젝트를 본격적으로 완성하고자 합니다.And now, I would like to complete this project in earnest.
+This is a blog that started out as a diary (since 2009). However, through this blog, I became special and I wanted to communicate with the world through this blog. Then, while watching the match between Lee Se-dol and AlphaGo in 2016, I wanted to sketch a tree **about** human knowledge on this blog. And now, I would like to complete this project in earnest.
 
-**목적 1.** **지식의 민주화**를 실현 **Aim** 1**.** Realize the democratization of **knowledge**
+**Aim** 1**.** Realize the democratization of **knowledge**
 
-○ 더이상 교육이 평등하지 않기 때문에...○ Because education is no longer equal...
+○ Because education is no longer equal...
 
-○ 더이상 교육이 희망과 꿈을 보여주지 않기 때문에...○ Because education no longer shows hope and dreams...
+○ Because education no longer shows hope and dreams...
 
-○ 병들어 가는 대한민국에 새로운 변화를...○ A new change in Korea that is getting sick...
+○ A new change in World that is getting sick...
 
-○ 사람들이 공부를 어려워하여 좌절하거나 불필요하게 많은 시간을 투자하는 경우가 많고, ○ People often get frustrated because they find it difficult to study or spend a lot of time unnecessarily.
+○ People often get frustrated because they find it difficult to study or spend a lot of time unnecessarily.
 
-○ 지식욕을 만족시키는 것에 대한 기쁨을 제대로 누리지 못한 경우도 많았으며,○There were many cases where I didn't fully enjoy the pleasure of satisfying my desire for knowledge.
+○ There were many cases where I didn't fully enjoy the pleasure of satisfying my desire for knowledge.
 
 ○ 막대한 교육비용 지출이 대한민국을 병들게 하므로 강력한 대책이 강구됩니다.○ Strong measures are taken because enormous educational expenses make Korea sick.
 
