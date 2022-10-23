@@ -1,6 +1,6 @@
-[##_Image|kage@GDZ0w/btrPh9U4pvA/QX4Sc5vAr1Ktw2de0gCNRk/img.jpg|CDM|1.3|{"originWidth":428,"originHeight":428,"style":"alignCenter","caption":"Knowledge alone should be equal. nate9389@gmail.comnate9389@gmail.com","filename":"다운로드.jpeg"}_##]
+![](https://blog.kakaocdn.net/dn/cmv0gC/btryQ1Mv0IE/Va1tYGgUqdbKjDBigaP87K/img.jpg)
 
-지식만은 평등해야 한다.
+지식만은 평등해야 한다.Knowledge alone should be equal. nate9389@gmail.comnate9389@gmail.com
 
 **1\. 들어가기에 앞서1. Before entering,**
 
@@ -76,10 +76,9 @@
 
 ○ 현 블로그는 인류의 지식이 소실됐을 때 인류의 지식을 보전하기 위한 시도의 성격이 있음○The current blog has the nature of an attempt to preserve human knowledge when human knowledge is lost.
 
-  
-  
+[![](https://blog.kakaocdn.net/dn/rEErV/btrvoP2WUEb/S71SaLkzgxFZ8UyrdYOwDk/img.jpg)](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fwww.sportskeeda.com%2Fanime%2Fdr-stone-chapter-225-a-space-bound-stowaway-petrification-problems)
 
-[##_Image|kage@bgbvIX/btrPhny1SAo/T6qCZSgD2uwQJ4xnQdvHU1/img.jpg|CDM|1.3|{"originWidth":1280,"originHeight":720,"style":"alignCenter","width":746,"height":420,"caption":"애니 닥터스톤도 필자와 비슷한 구상을 보여준 바 있다.Annie Dr. Stone also showed me a similar idea.","filename":"f0e1c-16422681279914-1920.jpg"}_##]
+애니 닥터스톤도 필자와 비슷한 구상을 보여준 바 있다.Annie Dr. Stone also showed me a similar idea.
 
 **Figure. 1.** 애니 닥터스톤 일러스트**Figure** 1**. Annie** Dr. Stone Illustration
 
@@ -183,7 +182,7 @@
 
 법은 그 효과가 평등해야 할 뿐만 아니라 그 이해도 평등해야 한다.The law must not only have equal effects, but also equal interests. 전 인류의 법적 성숙을 위하여 구상하고 있는 아이디어.ideas conceived for the legal maturity of all mankind. 우리는 국가법령정보센터 등을 통해 우리나라의 모든 법조문을 확보할 수 있고, 이런 식으로 전 세계의 모든 법조문을 확보할 수 있습니다.We can secure all legal documents in our country through the National Legal Information Center, and in this way, we can secure all legal documents around the world. 그리고 조문 내 인용 조항을 전부 모으면 모든 법조문의 상호 연결관계, 즉 네트워크를 확보할 수 있습니다.In addition, collecting all the citation provisions in the provisions will ensure the interconnection of all legal texts, that is, the network. 그리고 [클러스터링 알고리즘](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F2150)을 실행시키면 적절한 hierarchy를 확보할 수 있을 것입니다.Then, if you [run](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F2150) the [clustering](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F2150) algorithm, you will have the appropriate hierarchy. 이로써 누구나 쉽게 법률적 지식을 빠르게 이해할 수 있을 것입니다.This will make it easier for anyone to quickly understand legal knowledge.
 
-[##_Image|kage@KrjK6/btrPlHjccKF/mDeX3IB7GhKI4w1X5Y4SC1/img.png|CDM|1.3|{"originWidth":684,"originHeight":677,"style":"alignCenter","width":508,"height":503,"filename":"그림1.png"}_##]
+![](https://blog.kakaocdn.net/dn/qefF6/btrMUM2ubW2/qZyZGvwLKljsf7wsLOMKi1/img.png)
 
 **Figure. 2.** R로 쉽게 구현할 수 있는 클러스터링 결과**The** results of clustering that can be easily implemented in **Figure** 2.R**.**
 
@@ -215,7 +214,7 @@
 
 이 블로그에 게시된 일부 이미지는 3D 이미지로 재탄생할 겁니다.Some of the images posted on this blog will be reborn as 3D images. AI 알고리즘을 통해 여러 장의 2D 이미지를 통해 3D 이미지를 재탄생시키는 것이 비로소 가능해진 시대가 왔습니다.The era has finally come when it is possible to recreate 3D images through multiple 2D images through AI algorithms.
 
-[##_Image|kage@bd345R/btrPjlnrXUV/M9CbX89G4Suik7eIjiMCK1/img.png|CDM|1.3|{"originWidth":1268,"originHeight":460,"style":"alignCenter","filename":"그림1.png"}_##]
+![](https://blog.kakaocdn.net/dn/LZOhV/btrec3IS5RV/0gPJGTlMHdsjKP9Hjgf2e1/img.png)
 
 **Figure. 3.Figure. 3.** [Building Rome in a DayBuilding Rome in a Day](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fgrail.cs.washington.edu%2Frome%2Frome_paper.pdf)[\[각주:1\]\[Footnote 1\]](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F%2Fnotice%2F1758#footnote_1758_1)
 
@@ -223,7 +222,7 @@
 
 또한 기존의 이미지를 원하는 스타일에 재구성하는 게 가능해진 시대가 도래했습니다.In addition, the era has come when it is possible to reconstruct the existing image into the style you want. 이를 통해 보다 적재적소한 이미지를 게시함과 동시에 저작권과 관련된 분쟁 소지를 상당 부분 해소할 것이라고 기대하고 있습니다.Through this, it is expected to post a more appropriate image and resolve much of the copyright-related disputes.
 
-[##_Image|kage@bw02E3/btrPkqIOIPp/9QIHDyFKYuTwLIcKNkkVR1/img.png|CDM|1.3|{"originWidth":1063,"originHeight":673,"style":"alignCenter","width":821,"height":520,"filename":"그림2.png"}_##]
+![](https://blog.kakaocdn.net/dn/bhwedV/btrd7UFBSXV/ReQ420wR9Pxpd9glOqnPvK/img.png)
 
 **Figure. 4.** Google Style Transfer[\[각주:2\]](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F%2Fnotice%2F1758#footnote_1758_2)**Figure** 4**. Google** Style Transfer[\[각주:2\]](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F%2Fnotice%2F1758#footnote_1758_2)
 
@@ -231,7 +230,7 @@
 
 위와 같은 논의를 더 연장한다면, 저작권을 떠나 일부 이미지의 경우 그 퀄리티가 꽤 좋음에도 워터마크나 불필요한 문자들이 덧쓰여 있어서 곤란한 상황이 있을 수도 있습니다.If the above discussion is extended further, it may be difficult for some images, regardless of copyright, to have watermarks or unnecessary characters, even though their quality is quite good. 이 경우 [DIP](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F2164)(deep image prior)를 활용한다면 우리가 원하는 부분을 복원하는 것도 가능할 것입니다.In this case, it will be possible to restore the part we want by utilizing the deep image prior ([DIP](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F2164)).
 
-[##_Image|kage@b5XeXU/btrPgMzwr1p/bdwaIMgtMS9HfmXC6pqfWk/img.png|CDM|1.3|{"originWidth":1280,"originHeight":342,"style":"alignCenter","filename":"스크린샷 2021-12-31 오후 4.23.00.png"}_##]
+![](https://blog.kakaocdn.net/dn/bFxpDq/btrptBIlDYI/Q1wXBwP8jqxwyFj7BGcj30/img.png)
 
 **Figure. 5.** DIP를 활용한 inpainting**Figure 5.** Inpainting using DIP[\[각주:3\]\[Footnote: 3\]](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F%2Fnotice%2F1758#footnote_1758_3)
 
