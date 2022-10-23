@@ -4,7 +4,7 @@ longtitle:        Knowledge must be equal
 author:           Jeongbin Park
 email:            nate9389@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Originally written in nate9389.tistory.com
 
 version:          1.0
 gitbook_version:  3.2.3
