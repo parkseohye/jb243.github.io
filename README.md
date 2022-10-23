@@ -54,69 +54,71 @@ This is a blog that started out as a diary (since 2009). However, through this b
 
 ○ **Answer 4.** Insights on Knowledge
 
-○○ core concept는 전체 지식 중 **적은 비율로 존재**한다는 점에서 착안The core concept is based on the fact that there is a **small** percentage of the **total** knowledge.
+○ The core concept is based on the fact that there is a **small** percentage of the **total** knowledge.
 
-○ core concept를 모아둔 내용은 시험공부를 위한 요점노트 같은 것이라고 생각할 수 있을 듯 ○ You can think of the contents of the core concept as a point note for studying for the exam.
+○ You can think of the core concept as a point note for studying for the exam.
 
-○ core concept의 정확한 정의를 이해하려면 정보이론의 [surprisal](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F2145%23%3A~%3Atext%3D%25E2%2591%25A1%25C2%25A0uncertainty%2520%25EB%2598%2590%25EB%258A%2594-%2Csurprisal%2C-%25E2%2597%258B%2520%25EC%25A0%2595%25EC%259D%2598%2520%253A%2520%25EC%25A3%25BC%25EC%2596%25B4%25EC%25A7%2584%2520%25EA%25B2%25BD%25EC%259A%25B0%25EC%259D%2598)을 참고○To understand the exact definition of the core concept, refer to the subprime [of](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F2145%23%3A~%3Atext%3D%25E2%2591%25A1%25C2%25A0uncertainty%2520%25EB%2598%2590%25EB%258A%2594-%2Csurprisal%2C-%25E2%2597%258B%2520%25EC%25A0%2595%25EC%259D%2598%2520%253A%2520%25EC%25A3%25BC%25EC%2596%25B4%25EC%25A7%2584%2520%25EA%25B2%25BD%25EC%259A%25B0%25EC%259D%2598) information theory.
+○ To understand the exact definition of the core concept, refer to the subprime [of](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fnate9389.tistory.com%2F2145%23%3A~%3Atext%3D%25E2%2591%25A1%25C2%25A0uncertainty%2520%25EB%2598%2590%25EB%258A%2594-%2Csurprisal%2C-%25E2%2597%258B%2520%25EC%25A0%2595%25EC%259D%2598%2520%253A%2520%25EC%25A3%25BC%25EC%2596%25B4%25EC%25A7%2584%2520%25EA%25B2%25BD%25EC%259A%25B0%25EC%259D%2598) information theory.
 
-#### **목적 3.** 인류의 지식을 보전하기 위한 시도**Aim** 3. Attempt to preserve human knowledge
+#### **Aim** 3. Attempt to preserve human knowledge
 
-○ 고대 로마 제국이 붕괴한 직후 로마 제국이 보유한 방대한 기술이 소실된 바 있음 ○ Immediately after the collapse of the ancient Roman Empire, the vast technology possessed by the Roman Empire was lost.
+○ Immediately after the collapse of the ancient Roman Empire, the vast technology possessed by the Roman Empire was lost.
 
-○ 인류는 언제나 높은 확률로 멸종 시나리오를 직면하고 있음 ○ Humans are always facing extinction scenarios with high probability
+○ Humans are always facing extinction scenarios with high probability
 
-○ 기후변화 ○ Climate change
+○ Climate change
 
-○ 핵전쟁 ○ Nuclear war
+○ Nuclear war
 
-○ 소행성 충돌 ○Asteroid collision
+○ Asteroid collision
 
-○ 전염병 창궐○ Infectious disease outbreak
+○ Infectious disease outbreak
 
-○ 현 블로그는 인류의 지식이 소실됐을 때 인류의 지식을 보전하기 위한 시도의 성격이 있음○The current blog has the nature of an attempt to preserve human knowledge when human knowledge is lost.
+○ ○ The current blog has the nature of an attempt to preserve human knowledge when human knowledge is lost.
 
 [![](https://blog.kakaocdn.net/dn/rEErV/btrvoP2WUEb/S71SaLkzgxFZ8UyrdYOwDk/img.jpg)](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fwww.sportskeeda.com%2Fanime%2Fdr-stone-chapter-225-a-space-bound-stowaway-petrification-problems)
 
-애니 닥터스톤도 필자와 비슷한 구상을 보여준 바 있다.Annie Dr. Stone also showed me a similar idea.
+The animation of Dr. Stone also showed me a similar idea.
 
-**Figure. 1.** 애니 닥터스톤 일러스트**Figure** 1**. Annie** Dr. Stone Illustration
+**Figure** 1**. Annie** Dr. Stone Illustration
 
-○ 블록체인의 가르침이 가르쳐 주듯이 지식을 공유하는 것은 지식을 영원하게 함○As the teaching of the blockchain teaches, sharing knowledge makes knowledge forever.
+○ As the teaching of the blockchain teaches, sharing knowledge makes knowledge forever.
 
-○ 물론, 인류의 멸종을 반드시 막을 것이고 이에 대비한 시나리오를 공유할 예정 ○ Of course, we will definitely prevent the extinction of mankind and share scenarios in preparation for this.
+○ Of course, we will definitely prevent the extinction of mankind and share scenarios in preparation for this.
 
-○ 먼 훗날 외계 문명이 인류의 지식을 답습할 수 있게 완전하고 무결한 데이터 스토리지를 구상 중 ○Planning a complete and flawless data storage so that alien civilization can follow human knowledge in the distant future.
+○ Planning a complete and flawless data storage so that alien civilization can follow human knowledge in the distant future.
 
-○ 혹은, 다른 행성에서 문명을 시작하기 위한 지식의 씨앗을 준비하는 과정○ Or the process of preparing the seeds of knowledge to start civilization on another planet.
+○ Or the process of preparing the seeds of knowledge to start civilization on another planet.
 
-○ 즉, 수백 년쯤 뒤 외계 행성에 문명을 건설할 적에 만물 지식백과가 필요하지 않겠는가?○ In other words, don't you need an encyclopedia of all things when you build civilization on an alien planet in hundreds of years?
+○ In other words, don't you need an encyclopedia of all things when you build civilization on an alien planet in hundreds of years?
 
-#### **목적 4.** 지식 습득의 가속화**Aim** 4. Accelerating Knowledge Acquisition
+#### **Aim** 4. Accelerating Knowledge Acquisition
 
-○ 음악도 템포가 빨라지는 게 유행하고 틱톡과 같이 빠르고 반복적인 동영상이 인기를 끄는데 지식을 빠르게 습득하는 형태가 미래지향적이지 않을까?○ The tempo of music is fast, and fast and repetitive videos like TikTok become popular, so wouldn't it be future-oriented to quickly acquire knowledge?
+○ The tempo of music is fast, and fast and repetitive videos like TikTok become popular, so wouldn't it be future-oriented to quickly acquire knowledge?
 
-○ 저출산은 모든 선진국이 겪는 현상이다.○ Low birth rate is a phenomenon experienced by all developed countries. **소수가 다수를 부양해야 하는 시대**에 지식의 습득 속도는 빨라져야 한다. In an era when a **few** have to support **the majority**, the pace of knowledge acquisition must be accelerated.
-
-## **2\. 구상 1.2. Initiative 1.** 향후 포스팅 / 프로젝트 진행 계획Future Posting/Project Progress Plan
-
-○ **'22. 10월** 中 번역 프로젝트, 생물학 하편 출판, 화학∙유기화학 요청 문제 풀이 **○** 22. **Translation** project in October, publishing the second part of biology, and solving chemical and organic chemical requests.
-
-○ **'22. 11월** 中 컴퓨터 비전 (난이도 **:** 上)**○** Computer **vision** in November, **22.** (Difficulty**:** Higher)
-
-○○ **'22. 12월 "December, 22.**中 한국어 교원 자격증, 생물학 영문번역 Korean Language Teacher Certificate, English Translation of Biology
-
-○ **'23. 01월** 中 비자 발급 절차 등○ 절차23. January visa **issuance** procedures, etc.
-
-○○ **'23. 02월 "February, 23.**中 "법은 만인 앞에서 평등해야 한다" 프로젝트 개시 **:** 법조항 간의 연결관계를 시각화 '**"**The law must be equal in front of everyone" project commenced: Visualizing the connection between legal provisions.
-
-○ **'23. 04월** 中 AI 챌린지 참가**○ Participated** in the AI Challenge in April**, 23**.
+○ Low birth rate is a phenomenon experienced by all developed countries. *In an era when a **few** have to support **the majority**, the pace of knowledge acquisition must be accelerated.
 
 ---
 
-## **3\. 구상 2.3. Initiative 2.** 컨텐츠 획득 관련 content acquisition-related
+## **2\. Initiative 1.** Future Posting/Project Progress Plan
 
-#### ****2-1. AI + 데이터베이스 AI+Database****(**not started**)(**not started**)
+○ October, 2022 **:** Translation project, publishing the second part of biology, and solving chemical and organic chemical requests.
+
+○ November, 2022 **:** Computer **vision** (Difficulty**:** Higher)
+
+○ December, 2022 **:** Korean Language Teacher Certificate, English Translation of Biology
+
+○ January, 2023 **:** Visa **issuance** procedures, etc.
+
+○ February, 2023 **:** "The law must be equal in front of everyone" project commenced: Visualizing the connection between legal provisions.
+
+○ April, 2023 **:** Participation in the AI Challenge.
+
+---
+
+## **3\. Initiative 2.** Content acquisition
+
+#### ****2-1. AI + Database****(**not started**)
 
 2022년 7월에 공개된 [AlphaFold2 데이터베이스](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fwww.deepmind.com%2Fblog%2Falphafold-reveals-the-structure-of-the-protein-universe).[AlphaFold2 database](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fwww.deepmind.com%2Fblog%2Falphafold-reveals-the-structure-of-the-protein-universe) released in July 2022. 약 2억 개의 단백질 구조 데이터베이스로 50년 간 인류가 실험적으로 밝혀낸 단백질 구조보다 1000배 많은 단백질 구조를 1년 안에 생성하였다.With about 200 million protein structure databases, it has produced 1,000 times more protein structures in a year than humans have experimentally discovered in 50 years. AI가 인지 수준을 넘어선 방대한 데이터를 생성하는 게 결국 컨텐츠 획득에 있어 나아가야 하는 방법이 아닐까.Isn't AI's generation of vast amounts of data beyond the cognitive level a way to eventually move forward in acquiring content? 그리고 그것을 관리하고 인출하기 위한 데이터베이스가 중요해지지 않을까.And isn't the database for managing and withdrawing it important? 그게 이 블로그의 최종 형태가 될 것이라고 생각한다.I think that will be the final form of this blog.
 
