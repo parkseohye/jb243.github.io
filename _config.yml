@@ -46,10 +46,11 @@ permalink:        /:categories/:year-:month-:day-:title:output_ext
 exclude:
   - _drafts
 
-collections:
-  pages:
-    output: true
-    permalink: /:collection/:path/
+## 221023_I deactivated 
+#collections:
+#  pages:
+#    output: true
+#    permalink: /:collection/:path/
 
 page_width: 800px
 
