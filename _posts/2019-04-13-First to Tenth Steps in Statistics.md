@@ -4,11 +4,15 @@ Kim, S.K., Park, J.B. (2022) FESTBOOK MEDIA. 979-11-92302-44-7 95410 (2nd ed)
 
 [Getting Started](https://nate9389.tistory.com/1641)
 
+<br>
+
 ## **Ⅰ. Combinatorics** 
 
 **#1.** [Basics of Statistics](https://classroom.tistory.com/31)
 
 **#2.** [Number of Cases](https://classroom.tistory.com/33)
+
+<br>
 
 ## **Ⅱ. Population**
 
@@ -27,6 +31,8 @@ Kim, S.K., Park, J.B. (2022) FESTBOOK MEDIA. 979-11-92302-44-7 95410 (2nd ed)
 **#9.** [Theorems of Statistics Ⅰ](https://classroom.tistory.com/39)
 
 **#10.** [Theorems of Statistics Ⅱ](https://classroom.tistory.com/41)
+
+<br>
 
 ## **Ⅲ. Sample**
 
@@ -47,6 +53,8 @@ Kim, S.K., Park, J.B. (2022) FESTBOOK MEDIA. 979-11-92302-44-7 95410 (2nd ed)
 **#18.** [Advanced Regression Analysis](https://classroom.tistory.com/49)
 
 **#19.** [Analysis of Variance of Regression Analysis](https://classroom.tistory.com/50)
+
+<br>
 
 ## **Ⅳ. Information Theory**
 
