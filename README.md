@@ -1,4 +1,4 @@
-### **First to Tenth Steps in Statistics** 
+### **First to Tenth Steps in Statisticsd** 
 
 Kim, S.K., Park, J.B. (2022) FESTBOOK MEDIA. 979-11-92302-44-7 95410 (2nd ed)
 
