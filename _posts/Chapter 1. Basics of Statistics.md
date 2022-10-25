@@ -24,7 +24,7 @@ Kim, S.K., Park, J.B. (2022); [originally written in Korean](https://nate9389.ti
 
 > ⑴ probability and Statistics
 
-　　　　① probability **:** a mathematical and theoretical study of possibilities
+> > ① probability **:** a mathematical and theoretical study of possibilities
 
 　　　　② Statistics **:** the study of collecting, analyzing, interpreting, or expressing data
 
