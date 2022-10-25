@@ -292,19 +292,6 @@ Figure 4. Google Style Transfer
 
 >> ○ Organic and chemical bible you want you to know
 
-
-
-<figure id="og_1651388494836" style="margin-left: 2em;" contenteditable="false" data-ke-type="opengraph" data-ke-align="alignCenter" data-og-type="article" data-og-title="【티스토리】 티스토리에 네이버 파파고 링크 연결하기" data-og-description="티스토리에 네이버 파파고 링크 연결하기 추천글&nbsp;: 단계 1.&nbsp;블로그 관리 &rarr; 꾸미기 &rarr; 스킨 편집 &rarr; html 편집 &rarr; HTML 단계 2. 다음과 같은 코드가 있는 부분을 찾음 수정 삭제 단계 3. 그 코드 위에" data-og-host="nate9389.tistory.com" data-og-source-url="https://nate9389.tistory.com/2178" data-og-url="https://nate9389.tistory.com/2178" data-og-image="https://scrap.kakaocdn.net/dn/hxN15/hyOdvqIwQL/QCcuXTjSAkea3wQ9GPt940/img.png?width=800&amp;height=800&amp;face=0_0_800_800,https://scrap.kakaocdn.net/dn/uA51P/hyOdAet0BR/LnhQt6EUS9Efk5UFRTFeoK/img.png?width=800&amp;height=800&amp;face=0_0_800_800,https://scrap.kakaocdn.net/dn/LZNuZ/hyOfc4blJd/vNKceiIkqPQO1eacT3kanK/img.jpg?width=264&amp;height=200&amp;face=0_0_264_200"><a href="https://nate9389.tistory.com/2178" target="_blank" rel="noopener" data-source-url="https://nate9389.tistory.com/2178">
-<div class="og-image" style="background-image: url('https://scrap.kakaocdn.net/dn/hxN15/hyOdvqIwQL/QCcuXTjSAkea3wQ9GPt940/img.png?width=800&amp;height=800&amp;face=0_0_800_800,https://scrap.kakaocdn.net/dn/uA51P/hyOdAet0BR/LnhQt6EUS9Efk5UFRTFeoK/img.png?width=800&amp;height=800&amp;face=0_0_800_800,https://scrap.kakaocdn.net/dn/LZNuZ/hyOfc4blJd/vNKceiIkqPQO1eacT3kanK/img.jpg?width=264&amp;height=200&amp;face=0_0_264_200');">&nbsp;</div>
-<div class="og-text">
-<p class="og-title" data-ke-size="size16">【티스토리】 티스토리에 네이버 파파고 링크 연결하기</p>
-<p class="og-desc" data-ke-size="size16">티스토리에 네이버 파파고 링크 연결하기 추천글&nbsp;: 단계 1.&nbsp;블로그 관리 &rarr; 꾸미기 &rarr; 스킨 편집 &rarr; html 편집 &rarr; HTML 단계 2. 다음과 같은 코드가 있는 부분을 찾음 수정 삭제 단계 3. 그 코드 위에</p>
-<p class="og-host" data-ke-size="size16">nate9389.tistory.com</p>
-</div>
-</a></figure>
-
-
-
 >> ○ From the first step to the tenth step in statistics
 
 >> ○ Biology as a whole - Microscopic understanding
