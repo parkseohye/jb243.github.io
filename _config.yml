@@ -51,9 +51,6 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  biology:
-    output: true
-    permalink: /:collection/:path/
 
 page_width: 800px
 
