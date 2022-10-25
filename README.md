@@ -1,28 +1,28 @@
-Knowledge alone should be equal.nate9389@gmail.com
+## Knowledge alone should be equal.
 
-1. Before entering,
+#### 1. Before entering,
 
 This is a blog that started out as a diary (since 2009).However, through this blog, I became special and I wanted to communicate with the world through this blog.Then, while watching the match between Lee Se-dol and AlphaGo in 2016, I wanted to sketch a tree about human knowledge on this blog.And now, I would like to complete this project in earnest.
 
 Aim 1. Realize the democratization of knowledge
 
-○ Because education is no longer equal...
+> ○ Because education is no longer equal...
 
-○ Because education no longer shows hope and dreams...
+> ○ Because education no longer shows hope and dreams...
 
-○ A new change in Korea that is getting sick...
+> ○ A new change in Korea that is getting sick...
 
-○ People often get frustrated because they find it difficult to study or spend a lot of time unnecessarily.
+>> ○ People often get frustrated because they find it difficult to study or spend a lot of time unnecessarily.
 
-○There were many cases where I didn't fully enjoy the pleasure of satisfying my desire for knowledge.
+>> ○ There were many cases where I didn't fully enjoy the pleasure of satisfying my desire for knowledge.
 
-○ Strong measures are taken because enormous educational expenses make Korea sick.
+>> ○ Strong measures are taken because enormous educational expenses make Korea sick.
 
-○ By the way, will Korea's enthusiasm for education be lowered even if the final and best knowledge system for all fields is disclosed?
+>> ○ By the way, will Korea's enthusiasm for education be lowered even if the final and best knowledge system for all fields is disclosed?
 
-○Advice from Avocado Addict
+> ○ Advice from Avocado Addict
 
-In an era where AI dominates AI, the collapse of capitalism will accelerate and return to a self-sufficient society will proceed. For those who are lagging behind this era, democratization of knowledge is essential.
+>> In an era where AI dominates AI, the collapse of capitalism will accelerate and return to a self-sufficient society will proceed. For those who are lagging behind this era, democratization of knowledge is essential.
 
 Purpose 2.prevention of human cognitive saturation
 
