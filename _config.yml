@@ -47,9 +47,10 @@ exclude:
   - _drafts
 
 # 아래 collections를 통해 다른 _pages 말고 다른 디렉토리도 할 수 있음
+# 일단 아래 기능은 필요 없는 거 같아서 불활성화 시킴
 collections:
   pages:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 page_width: 800px
