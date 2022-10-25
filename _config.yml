@@ -48,7 +48,7 @@ exclude:
 
 collections:
   pages:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 page_width: 800px
