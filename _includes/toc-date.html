@@ -22,7 +22,7 @@
             {% for collection in site.collections %}
                 <!-- <p>{{ collection.label }}</p> -->
                 {% if collection.output %}
-                    {% if collection.label == "posts" %}
+                    {% if collection.label == "posts" %} # 여기가 _posts 폴더를 인식하는 핵심 코드
                         {% assign reversed_posts = site[collection.label] | reverse %}
                     {% else %}
                         {% assign reversed_posts = site[collection.label] %}
