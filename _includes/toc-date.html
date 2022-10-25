@@ -23,6 +23,10 @@
             
             {% for collection in site.collections %}
                 <!-- <p>{{ collection.label }}</p> -->
+                <p style="margin-left: 2em;" data-ke-size="size16"><a href="https://jb243.github.io/1641-1-1-1641.html" target="_blank" rel="noopener">Statistics</a></p>
+
+            
+            
                 {% if collection.output %}
                     <!-- 아래가 _posts 폴더를 인식하는 핵심 코드 -->
                     {% if collection.label == "posts" %}  
@@ -49,7 +53,6 @@
                         </li>
                     {% endfor %}
                     -->
-                    <p data-ke-size="size16"><a href="https://jb243.github.io/2019-04-13-First-to-Tenth-Steps-in-Statistics.html" target="_blank" rel="noopener">Statistics</a></p>
                         
                     {% if reversed_posts.size > 0 %}
                         <li class="divider"></li>
