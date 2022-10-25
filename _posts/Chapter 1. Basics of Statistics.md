@@ -22,7 +22,7 @@ Kim, S.K., Park, J.B. (2022); [originally written in Korean](https://nate9389.ti
 
 ## **1\. introduction** 
 
-　　⑴ probability and Statistics
+> ⑴ probability and Statistics
 
 　　　　① probability **:** a mathematical and theoretical study of possibilities
 
