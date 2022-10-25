@@ -1,10 +1,12 @@
 ## Knowledge alone should be equal.
 
-#### 1. Before entering,
+<br> 
+
+## 1. Before entering,
 
 This is a blog that started out as a diary (since 2009).However, through this blog, I became special and I wanted to communicate with the world through this blog.Then, while watching the match between Lee Se-dol and AlphaGo in 2016, I wanted to sketch a tree about human knowledge on this blog.And now, I would like to complete this project in earnest.
 
-Aim 1. Realize the democratization of knowledge
+#### Mission 1. Realize the democratization of knowledge
 
 > ○ Because education is no longer equal...
 
@@ -24,77 +26,87 @@ Aim 1. Realize the democratization of knowledge
 
 >> In an era where AI dominates AI, the collapse of capitalism will accelerate and return to a self-sufficient society will proceed. For those who are lagging behind this era, democratization of knowledge is essential.
 
-Purpose 2.prevention of human cognitive saturation
+<br>
 
-○ The arrival of singularity: It is expected that the speed at which knowledge accumulates will be faster than the speed at which mankind understands it in the next 50 years.
+#### Mission 2. prevention of human cognitive saturation
 
-○ Information expansion: There is still concern about explosive growth of IT and bio information.
+> ○ The arrival of singularity: It is expected that the speed at which knowledge accumulates will be faster than the speed at which mankind understands it in the next 50 years.
 
-○Prevention of saturation of IT information: To cooperate with the IT industry
+> ○ Information expansion: There is still concern about explosive growth of IT and bio information.
 
-○Prevention of saturation of bio-information: To cooperate with the research community.expect to establish a gene-centered system
+>> ○ Prevention of saturation of IT information: To cooperate with the IT industry
 
-○ How can one person collect all the knowledge of mankind?
+>> ○ Prevention of saturation of bio-information: To cooperate with the research community.expect to establish a gene-centered system
 
-○ Answer 1. Crowd sourcing model: Build a business model for collecting and sharing knowledge by the majority
+> ○ How can one person collect all the knowledge of mankind?
 
-○The most important conclusion you will find while studying economic history.The world has always demonstrated the law of stagnant harvests.The increase in population led to irreversible technological development and people's lives became richer.Then, the more knowledge you share, the more people gather, and the more knowledge you gather, the more knowledge you create?
+> ○ Answer 1. Crowd sourcing model: Build a business model for collecting and sharing knowledge by the majority
 
-○ Currently, known BM models such as Wikipedia, Github, and Naver Knowledgein are well known.
+>> ○ The most important conclusion you will find while studying economic history.The world has always demonstrated the law of stagnant harvests.The increase in population led to irreversible technological development and people's lives became richer.Then, the more knowledge you share, the more people gather, and the more knowledge you gather, the more knowledge you create?
 
-○ Answer 2. AI Artificial Intelligence Model: An idea of living and evolving writing
+>> ○ Currently, known BM models such as Wikipedia, Github, and Naver Knowledgein are well known.
 
-○What I'm going to write is not a typical sentence.So I won't take away the jobs of writers.
+> ○ Answer 2. AI Artificial Intelligence Model: An idea of living and evolving writing
 
-○ Answer 3. Social networking model: Building a network in the form of a point organization
+>> ○ What I'm going to write is not a typical sentence.So I won't take away the jobs of writers.
 
-○ The business model I think of is a form of branch organization.The vertical class adopted by large companies is a diagnosis that is not suitable for modern times when individuals' desire for self-realization has become stronger.We are planning a strategy in which one person becomes the center of networking by forming a one-on-one private contract rather than a vertical class.This is what I saw and felt at the startup that I was with from the beginning to the listing.
+> ○ Answer 3. Social networking model: Building a network in the form of a point organization
 
-○ Answer 4. Insights on Knowledge
+>> ○ The business model I think of is a form of branch organization.The vertical class adopted by large companies is a diagnosis that is not suitable for modern times when individuals' desire for self-realization has become stronger.We are planning a strategy in which one person becomes the center of networking by forming a one-on-one private contract rather than a vertical class.This is what I saw and felt at the startup that I was with from the beginning to the listing.
 
-○The core concept is based on the fact that there is a small percentage of the total knowledge.
+> ○ Answer 4. Insights on Knowledge
 
-○ You can think of the contents of the core concept as a point note for studying for the exam.
+>> ○ The core concept is based on the fact that there is a small percentage of the total knowledge.
 
-○To understand the exact definition of the core concept, refer to the subprime of information theory.
+>> ○ You can think of the contents of the core concept as a point note for studying for the exam.
 
-Aim 3. Attempt to preserve human knowledge
+>> ○ To understand the exact definition of the core concept, refer to the subprisal[https://nate9389.tistory.com/2145#:~:text=%E2%91%A1%C2%A0uncertainty%20%EB%98%90%EB%8A%94-,surprisal,-%E2%97%8B%20%EC%A0%95%EC%9D%98%20%3A%20%EC%A3%BC%EC%96%B4%EC%A7%84%20%EA%B2%BD%EC%9A%B0%EC%9D%98] of information theory.
 
-○ Immediately after the collapse of the ancient Roman Empire, the vast technology possessed by the Roman Empire was lost.
+<br>
 
-○ Humans are always facing extinction scenarios with high probability
+#### Mission 3. Attempt to preserve human knowledge
 
-○ Climate change
+> ○ Immediately after the collapse of the ancient Roman Empire, the vast technology possessed by the Roman Empire was lost.
 
-○ Nuclear war
+> ○ Humans are always facing extinction scenarios with high probability
 
-○Asteroid collision
+>> ○ Climate change
 
-○ Infectious disease outbreak
+>> ○ Nuclear war
 
-○The current blog has the nature of an attempt to preserve human knowledge when human knowledge is lost.
+>> ○ Asteroid collision
 
+>> ○ Infectious disease outbreak
 
+> ○ The current blog has the nature of an attempt to preserve human knowledge when human knowledge is lost.
+
+<center>
 Annie Dr. Stone also showed me a similar idea.
 Figure 1. Annie Dr. Stone Illustration
+</center>
+  
+>> ○ As the teaching of the blockchain teaches, sharing knowledge makes knowledge forever.
 
-○As the teaching of the blockchain teaches, sharing knowledge makes knowledge forever.
+>> ○ Of course, we will definitely prevent the extinction of mankind and share scenarios in preparation for this.
 
-○ Of course, we will definitely prevent the extinction of mankind and share scenarios in preparation for this.
+>> ○ Planning a complete and flawless data storage so that alien civilization can follow human knowledge in the distant future.
 
-○Planning a complete and flawless data storage so that alien civilization can follow human knowledge in the distant future.
+> ○ Or the process of preparing the seeds of knowledge to start civilization on another planet.
 
-○ Or the process of preparing the seeds of knowledge to start civilization on another planet.
+>> ○ In other words, don't you need an encyclopedia of all things when you build civilization on an alien planet in hundreds of years?
 
-○ In other words, don't you need an encyclopedia of all things when you build civilization on an alien planet in hundreds of years?
+<br>
 
-Aim 4. Accelerating Knowledge Acquisition
+#### Mission 4. Accelerating Knowledge Acquisition
 
-○ The tempo of music is fast, and fast and repetitive videos like TikTok become popular, so wouldn't it be future-oriented to quickly acquire knowledge?
+> ○ The tempo of music is fast, and fast and repetitive videos like TikTok become popular, so wouldn't it be future-oriented to quickly acquire knowledge?
 
-○ Low birth rate is a phenomenon experienced by all developed countries. In an era when a few have to support the majority, the pace of knowledge acquisition must be accelerated.
+> ○ Low birth rate is a phenomenon experienced by all developed countries. In an era when a few have to support the majority, the pace of knowledge acquisition must be accelerated.
 
-2. Initiative 1.Future Posting/Project Progress Plan
+<br>
+<br>
+
+## 2. Initiative 1. Future Posting/Project Progress Plan
 
 ○ 22. Translation project in October, publishing the second part of biology, and solving chemical and organic chemical requests.
 
