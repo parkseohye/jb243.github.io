@@ -13,6 +13,7 @@
 .book.with-summary .book-body .book-header {
     position: fixed;
     width: calc(100% - 300px);
+    color: #000000; # I added
 }
 
 .book-body .body-inner {
