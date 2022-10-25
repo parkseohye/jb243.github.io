@@ -30,7 +30,8 @@
                     {% else %}
                          {% assign reversed_posts = site[collection.label] %} 
                     {% endif %}
-
+                    
+                    <!-- 
                     {% for post in reversed_posts %}
                         {% if page.url == post.url %}
                         <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
@@ -47,14 +48,14 @@
                             {% endif %}
                         </li>
                     {% endfor %}
-
+                    -->
+                    <li class="chapter active" data-level="1.2" data-path="https://jb243.github.io/2019-04-13-First-to-Tenth-Steps-in-Statistics.html">
+            
                     {% if reversed_posts.size > 0 %}
                         <li class="divider"></li>
                     {% endif %}
                 {% endif %}
             {% endfor %}
-
-            
 
             
             
