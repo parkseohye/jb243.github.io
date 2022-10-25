@@ -1,4 +1,4 @@
-## Knowledge alone should be equal.
+## Knowledge must be equal
 
 <br> 
 
