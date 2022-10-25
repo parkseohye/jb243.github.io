@@ -24,17 +24,17 @@ Kim, S.K., Park, J.B. (2022); [originally written in Korean](https://nate9389.ti
 
 > ⑴ probability and Statistics
 
-> > ① probability **:** a mathematical and theoretical study of possibilities
+>> ① probability **:** a mathematical and theoretical study of possibilities
 
 >>> ② Statistics **:** the study of collecting, analyzing, interpreting, or expressing data
 
-　　　　　　○ probability and statistics are similar but clearly different
+>>> ○ probability and statistics are similar but clearly different
 
-　　　　③ descriptive Statistics **:** statistical technique that summarizes and describes data
+>> ③ descriptive Statistics **:** statistical technique that summarizes and describes data
 
-　　　　④ inference Statistics **:** statistical techniques that calculate the probability of a value occurring beyond the summary of numbers
+>>> ④ inference Statistics **:** statistical techniques that calculate the probability of a value occurring beyond the summary of numbers
 
-　⑵ the meaning of probability
+> ⑵ the meaning of probability
 
 　　　　① Frequentist
 
