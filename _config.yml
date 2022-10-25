@@ -46,9 +46,10 @@ permalink:        /:categories/:year-:month-:day-:title:output_ext
 exclude:
   - _drafts
 
+# 아래 collections를 통해 다른 _pages 말고 다른 디렉토리도 할 수 있음
 collections:
   pages:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 page_width: 800px
