@@ -22,7 +22,7 @@
             <li class="divider"></li>
             
             {% for collection in site.collections %}
-                <!-- <p>{{ collection.label }}</p> -->
+                <p>{{ collection.label }}</p>
                 {% if collection.output %}
                     {% if collection.label == "posts" %}  <!-- 여기가 _posts 폴더를 인식하는 핵심 코드 -->
                         {% assign reversed_posts = site[collection.label] | reverse %}
@@ -59,7 +59,7 @@
             <li class="divider"></li>
 
             {% for collection in site.collections %}
-                <!-- <p>{{ collection.label }}</p> -->
+                <p>{{ collection.label }}</p> 
                 {% if collection.output %}
                     {% if collection.label == "mybiology" %}  <!-- 여기가 _biology 폴더를 인식하는 핵심 코드 -->
                         {% assign reversed_posts = site[collection.label] | reverse %}
@@ -94,7 +94,7 @@
             
             <li>
                 <a href="https://nate9389.tistory.com/" target="blank" class="gitbook-link">
-                    Originally written in Korean!
+                    Translated in Korean!
                 </a>
             </li>
         </ul>
