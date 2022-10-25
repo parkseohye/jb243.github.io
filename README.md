@@ -4,7 +4,7 @@
 
 ## 1. Before entering,
 
-This is a blog that started out as a diary (since 2009).However, through this blog, I became special and I wanted to communicate with the world through this blog.Then, while watching the match between Lee Se-dol and AlphaGo in 2016, I wanted to sketch a tree about human knowledge on this blog.And now, I would like to complete this project in earnest.
+This is a blog that started out as a diary (since 2009). However, through this blog, I became special and I wanted to communicate with the world through this blog.Then, while watching the match between Lee Se-dol and AlphaGo in 2016, I wanted to sketch a tree about human knowledge on this blog.And now, I would like to complete this project in earnest.
 
 #### Mission 1. Realize the democratization of knowledge
 
@@ -108,88 +108,91 @@ Figure 1. Annie Dr. Stone Illustration
 
 ## 2. Initiative 1. Future Posting/Project Progress Plan
 
-○ 22. Translation project in October, publishing the second part of biology, and solving chemical and organic chemical requests.
+> ○ '22. Translation project in October, publishing the second part of biology, and solving chemical and organic chemical requests.
 
-○ Computer vision in November, 22. (Difficulty: Higher)
+> ○ Computer vision in November, 22. (Difficulty: Higher)
 
-○"December, 22.Korean Language Teacher Certificate, English Translation of Biology
+> ○ "December, 22.Korean Language Teacher Certificate, English Translation of Biology
 
-○ 절차23. January visa issuance procedures, etc.
+> ○ 절차23. January visa issuance procedures, etc.
 
-○ "February, 23."The law must be equal in front of everyone" project commenced: Visualizing the connection between legal provisions.
+> ○ "February, 23."The law must be equal in front of everyone" project commenced: Visualizing the connection between legal provisions.
 
-○ Participated in the AI Challenge in April, 23.
+> ○ Participated in the AI Challenge in April, 23.
+
+<br>
+<br>
+
+## 3. Initiative 2. content acquisition-related
+
+#### 2-1. AI+Database(not started)
+
+> AlphaFold2 database released in July 2022.With about 200 million protein structure databases, it has produced 1,000 times more protein structures in a year than humans have experimentally discovered in 50 years.Isn't AI's generation of vast amounts of data beyond the cognitive level a way to eventually move forward in acquiring content?And isn't the database for managing and withdrawing it important?I think that will be the final form of this blog.
+
+#### 2-2. Next Generation Search Engine Project(not started)
+
+> I don't think we can create content for all areas here.This is because 1) securing expertise that exceeds all experts in each field is almost impossible at the moment, 2) even if it is possible through artificial intelligence, it is not desirable to threaten existing jobs without fostering new industries, and 3) dealing with all deep concepts can greatly damage beginners' understanding.
+
+> So the strategy I chose is 1) focusing on gathering relatively easily crawled knowledge (2-2, 2-3, 2-4, 2-5), 2) focusing on building search engines that connect expert knowledge (2-6), 3) applying crowdsourcing (2-7).
+
+> Unlike traditional search engines with graph-structured data structures and list-structured Wikipedia, this search engine is differentiated by its knowledge management system (KMS) with tree structures.I personally think the tree structure is the most similar to the human cognitive structure.Also, we are considering a private KMS that provides KMS to the company or a window that promotes government policies by providing KMS to the government.I think we need a "real" guide for hitchhikers traveling in the Milky Way...This will help 1) acquire knowledge quickly, 2) ensure the integrity of knowledge (the consistent nature of grammar and content) and non-redundant (the nature that allows only the necessary level of concept overlap), 3) communicate within the company, and 4) facilitate comparison of patent claims.
+
+> What I felt while working together from the start-up to listing is that it is more difficult than I thought to maintain the integrity of the integrity of knowledge.In this regard, I observed that 1) the results of data analysis on different days should not be different, but I didn't know what parameters made them different when they were different, 2) communication between experts in different fields was poor, and 3) only the first time I knew what knowledge was new to me. And regarding 3), I have recorded a lot of new knowledge since I was quite young, so I was able to build a tree at the current level, but people who know too much may not know what new knowledge is.
+
+#### 2-3. Evolving and Living AI (not started)
+
+> ○ Basic idea
+
+>> ○ Humans eat with their mouths like animals, but unlike animals, they eat knowledge with their heads.
+
+>> ○ Just as food must be broken down into monomers to digest food, it must be broken down into concepts to digest writing.
+
+>> ○ Of course, the context of the relationship between sentences is not meaningless, but it is meaningful to make the concept more clear.
+
+>> ○ Just as living things constantly metabolize and evolve, knowledge must be alive and able to evolve.
+
+> ○ Derivative idea 1. A model that crawls knowledge on its own (not started)
+
+>> ○ Premise: The knowledge system has the existing integrity, non-redundancy, unity, and brevity.
+
+>>> ○ Integrity: The nature of the content without errors
+
+>>> ○ Non-redundant: Properties that do not overlap more than necessary
+
+>>> ○ Integrity: The nature of a vast amount of text being connected to a single flow
+
+>>> ○ Simplicity: The characteristic of the style being simple without any unnecessities.
+
+>> ○ Step 1. sentence-by-sentence
+
+>> ○ Step 2. Summarize only sentences that you can understand yourself: Don't ignore them collectively because they have directive pronouns (e.g., ", ", ", ").
+
+>> ○ Step 3. Summarize only sentences about core concept
+
+>> ○ Step 4. allocation by field: law, economy, science, etc.
+
+>> ○ Step 5. Connect to specific posting in each field: Posting is often integrated within each field.
+
+>> ○ Step 6. Connect the specific number of lines in each post: Insert the corresponding core knowledge at that point if there is no duplication.
+
+>> ○ Interim conclusion: Again, the knowledge system has integrity, non-redundancy, unity, and brevity.
+
+>> ○ Final conclusion: The knowledge system has integrity, non-redundantness, unity, and brevity forever (Mathematical induction)
+
+> ○ Derivative idea 2.Digest Wiki Project
+
+>> In 2-1, Wikipedia was chosen as the number one target in relation to gathering knowledge that can be crawled relatively easily. A sudden thought came to mind with the end of the translation project.For example, the word myofrontal carcinoma is used in English.Agrobacterium tumefaciensIf anyone is curious about Agrobacterium tumefaciens, please use the search engine in my blog. DNA technologyIt could be an influx of posts related toHe will then be able to identify which subcategories specifically include the word Agrobacterium tumefaciens in the DNA technology posting, and to some extent answer his questions.After all, what people are curious about is information, what I can provide is contextual information, and the means of attracting people is probably terminology.The work of crawling all the pages of the Wiki project and securing a set of jargon dictionaries will begin shortly.
+
+> ○ Strategy
+
+>> ○ How to create a programmable website using GitHub
+
+>> ○ We plan to create an English website through the translation pipeline and try new things on GitHub.
 
 
-3. Initiative 2. content acquisition-related
+#### 2-4. Laws are equal in the presence of all. (not started)
 
-AI+Database(not started)
-
-AlphaFold2 database released in July 2022.With about 200 million protein structure databases, it has produced 1,000 times more protein structures in a year than humans have experimentally discovered in 50 years.Isn't AI's generation of vast amounts of data beyond the cognitive level a way to eventually move forward in acquiring content?And isn't the database for managing and withdrawing it important?I think that will be the final form of this blog.
-
-2-2 Next Generation Search Engine Project(not started)
-
-I don't think we can create content for all areas here.This is because 1) securing expertise that exceeds all experts in each field is almost impossible at the moment, 2) even if it is possible through artificial intelligence, it is not desirable to threaten existing jobs without fostering new industries, and 3) dealing with all deep concepts can greatly damage beginners' understanding.
-
-So the strategy I chose is 1) focusing on gathering relatively easily crawled knowledge (2-2, 2-3, 2-4, 2-5), 2) focusing on building search engines that connect expert knowledge (2-6), 3) applying crowdsourcing (2-7).
-
-Unlike traditional search engines with graph-structured data structures and list-structured Wikipedia, this search engine is differentiated by its knowledge management system (KMS) with tree structures.I personally think the tree structure is the most similar to the human cognitive structure.Also, we are considering a private KMS that provides KMS to the company or a window that promotes government policies by providing KMS to the government.I think we need a "real" guide for hitchhikers traveling in the Milky Way...This will help 1) acquire knowledge quickly, 2) ensure the integrity of knowledge (the consistent nature of grammar and content) and non-redundant (the nature that allows only the necessary level of concept overlap), 3) communicate within the company, and 4) facilitate comparison of patent claims.
-
-What I felt while working together from the start-up to listing is that it is more difficult than I thought to maintain the integrity of the integrity of knowledge.In this regard, I observed that 1) the results of data analysis on different days should not be different, but I didn't know what parameters made them different when they were different, 2) communication between experts in different fields was poor, and 3) only the first time I knew what knowledge was new to me. And regarding 3), I have recorded a lot of new knowledge since I was quite young, so I was able to build a tree at the current level, but people who know too much may not know what new knowledge is.
-
-2-3. Evolving and Living AI (not started)
-
-○Basic idea
-
-○ Humans eat with their mouths like animals, but unlike animals, they eat knowledge with their heads.
-
-○ Just as food must be broken down into monomers to digest food, it must be broken down into concepts to digest writing.
-
-○ Of course, the context of the relationship between sentences is not meaningless, but it is meaningful to make the concept more clear.
-
-○ Just as living things constantly metabolize and evolve, knowledge must be alive and able to evolve.
-
-○ Derivative idea 1. A model that crawls knowledge on its own (not started)
-
-○ Premise: The knowledge system has the existing integrity, non-redundancy, unity, and brevity.
-
-○ Integrity: The nature of the content without errors
-
-○ Non-redundant: Properties that do not overlap more than necessary
-
-○ Integrity: The nature of a vast amount of text being connected to a single flow
-
-○ Simplicity: The characteristic of the style being simple without any unnecessities.
-
-○ The first step. sentence-by-sentence
-
-○ Step 2. Summarize only sentences that you can understand yourself: Don't ignore them collectively because they have directive pronouns (e.g., ", ", ", ").
-
-○ Step 3. Summarize only sentences about core concept
-
-○ Level 4. allocation by field: law, economy, science, etc.
-
-○ Step 5. Connect to specific posting in each field: Posting is often integrated within each field.
-
-○ Step 6. Connect the specific number of lines in each post: Insert the corresponding core knowledge at that point if there is no duplication.
-
-○ Interim conclusion: Again, the knowledge system has integrity, non-redundancy, unity, and brevity.
-
-○ Final conclusion: The knowledge system has integrity, non-redundantness, unity, and brevity forever (Mathematical induction)
-
-○ Derivative idea 2.Digest Wiki Project
-
-In 2-1, Wikipedia was chosen as the number one target in relation to gathering knowledge that can be crawled relatively easily. A sudden thought came to mind with the end of the translation project.For example, the word myofrontal carcinoma is used in English.Agrobacterium tumefaciensIf anyone is curious about Agrobacterium tumefaciens, please use the search engine in my blog. DNA technologyIt could be an influx of posts related toHe will then be able to identify which subcategories specifically include the word Agrobacterium tumefaciens in the DNA technology posting, and to some extent answer his questions.After all, what people are curious about is information, what I can provide is contextual information, and the means of attracting people is probably terminology.The work of crawling all the pages of the Wiki project and securing a set of jargon dictionaries will begin shortly.
-
-○ Strategy
-
-○How to create a programmable website using GitHub
-
-○We plan to create an English website through the translation pipeline and try new things on GitHub.
-
-Laws are equal in the presence of all.(not started)
-
-The law must not only have equal effects, but also equal interests.ideas conceived for the legal maturity of all mankind.We can secure all legal documents in our country through the National Legal Information Center, and in this way, we can secure all legal documents around the world.In addition, collecting all the citation provisions in the provisions will ensure the interconnection of all legal texts, that is, the network.Then, if you run the clustering algorithm, you will have the appropriate hierarchy.This will make it easier for anyone to quickly understand legal knowledge.
+> The law must not only have equal effects, but also equal interests.ideas conceived for the legal maturity of all mankind.We can secure all legal documents in our country through the National Legal Information Center, and in this way, we can secure all legal documents around the world.In addition, collecting all the citation provisions in the provisions will ensure the interconnection of all legal texts, that is, the network.Then, if you run the clustering algorithm, you will have the appropriate hierarchy.This will make it easier for anyone to quickly understand legal knowledge.
 
 
 The results of clustering that can be easily implemented in Figure 2.R.
