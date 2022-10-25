@@ -26,8 +26,8 @@
                 {% if collection.output %}
                     {% if collection.label == "posts" %}  <!-- 여기가 _posts 폴더를 인식하는 핵심 코드 -->
                         {% assign reversed_posts = site[collection.label] | reverse %}
-                    {% else %}
-                        <!-- {% assign reversed_posts = site[collection.label] %} _pages 폴더가 보이게 하는 코드이므로 이 부분을 주석 처리 -->
+                    <!-- {% else %}
+                         {% assign reversed_posts = site[collection.label] %} _pages 폴더가 보이게 하는 코드이므로 이 부분을 주석 처리 -->
                     {% endif %}
 
                     {% for post in reversed_posts %}
