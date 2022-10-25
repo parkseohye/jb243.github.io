@@ -60,7 +60,7 @@ This is a blog that started out as a diary (since 2009). However, through this b
 
 >> ○ You can think of the contents of the core concept as a point note for studying for the exam.
 
->> ○ To understand the exact definition of the core concept, refer to the subprisal[https://nate9389.tistory.com/2145#:~:text=%E2%91%A1%C2%A0uncertainty%20%EB%98%90%EB%8A%94-,surprisal,-%E2%97%8B%20%EC%A0%95%EC%9D%98%20%3A%20%EC%A3%BC%EC%96%B4%EC%A7%84%20%EA%B2%BD%EC%9A%B0%EC%9D%98] of information theory.
+>> ○ To understand the exact definition of the core concept, refer to the subprisal(https://nate9389.tistory.com/2145#:~:text=%E2%91%A1%C2%A0uncertainty%20%EB%98%90%EB%8A%94-,surprisal,-%E2%97%8B%20%EC%A0%95%EC%9D%98%20%3A%20%EC%A3%BC%EC%96%B4%EC%A7%84%20%EA%B2%BD%EC%9A%B0%EC%9D%98) of information theory.
 
 <br>
 
@@ -194,226 +194,224 @@ Figure 1. Annie Dr. Stone Illustration
 
 > The law must not only have equal effects, but also equal interests.ideas conceived for the legal maturity of all mankind.We can secure all legal documents in our country through the National Legal Information Center, and in this way, we can secure all legal documents around the world.In addition, collecting all the citation provisions in the provisions will ensure the interconnection of all legal texts, that is, the network.Then, if you run the clustering algorithm, you will have the appropriate hierarchy.This will make it easier for anyone to quickly understand legal knowledge.
 
+<center>
+  The results of clustering that can be easily implemented in Figure 2.R.
+</center>
 
-The results of clustering that can be easily implemented in Figure 2.R.
+> ○ There are 1,580 laws in Korea (as of 2022), and there may be constitution, orders, ordinances, and rules, so thousands of posts will be created.
 
-○There are 1,580 laws in Korea (as of 2022), and there may be constitution, orders, ordinances, and rules, so thousands of posts will be created.
+> ○ The laws of the United States vary from state to state, so...
 
-○The laws of the United States vary from state to state, so...
+> ○ Derivative Idea 1. Wouldn't it be possible to secure a hierarchy of the current blog's knowledge system if we secure a network of posts based on the link between posts?Ideas that form the basis of the following "how to present the blueprint of human knowledge in tSNE"
 
-○ Derivative Idea 1. Wouldn't it be possible to secure a hierarchy of the current blog's knowledge system if we secure a network of posts based on the link between posts?Ideas that form the basis of the following "how to present the blueprint of human knowledge in tSNE"
+#### 2-5. Book Network
 
-Book Network
+> The volume of books is too large.If I cluster all the books, can I know which one is more important and which one should I read first?
 
-The volume of books is too large.If I cluster all the books, can I know which one is more important and which one should I read first?
+#### 2-6. OCR (image to text) (complete)
 
-2-6. OCR (image to text) (complete)
+> It has already been implemented in GOONO, so I will borrow it.This makes it easy to convert image data and publications into digital data.
 
-It has already been implemented in GOONO, so I will borrow it.This makes it easy to convert image data and publications into digital data.
+#### 2-7. Industry Standardization System (in progress)
 
-2-7. Industry Standardization System (in progress)
+> It is to link the data of the top experts in each field to establish industry standards.Who the first experts are selected will follow internal evaluation and will change over time.It will have an exclusive function similar to a patent and will be submitted to obtain industry standards.
 
-It is to link the data of the top experts in each field to establish industry standards.Who the first experts are selected will follow internal evaluation and will change over time.It will have an exclusive function similar to a patent and will be submitted to obtain industry standards.
+#### 2-8. Consulting Services (in progress)
 
-2-8. Consulting Services (in progress)
+> Many teachers have already provided useful questions and materials.However, in general, I can see that both my client and I can communicate a lot of information through questions.1) It is different from conventional consulting services in that it is difficult to ask around as an adult, and 2) that respondents may be able to answer as soon as possible (compared to Naver Knowledgein).Please feel free to ask me any questions.
 
-Many teachers have already provided useful questions and materials.However, in general, I can see that both my client and I can communicate a lot of information through questions.1) It is different from conventional consulting services in that it is difficult to ask around as an adult, and 2) that respondents may be able to answer as soon as possible (compared to Naver Knowledgein).Please feel free to ask me any questions.
+<br>
+<br>
 
-4. Initiative 3. Regarding image creation
+## 4. Initiative 3. Regarding image creation
 
-3-1. 3D Images as Contents(not started)
+#### 3-1. 3D Images as Contents(not started)
 
-Some of the images posted on this blog will be reborn as 3D images.The era has finally come when it is possible to recreate 3D images through multiple 2D images through AI algorithms.
+> Some of the images posted on this blog will be reborn as 3D images.The era has finally come when it is possible to recreate 3D images through multiple 2D images through AI algorithms.
 
-
+<center>
 Figure. 3. Building Rome in a Day1]
+</center>
+  
+#### 3-2 Resolution of Copyright Disputes(not started)
 
-3-2 Resolution of Copyright Disputes(not started)
+> In addition, the era has come when it is possible to reconstruct the existing image into the style you want.Through this, it is expected to post a more appropriate image and resolve much of the copyright-related disputes.
 
-In addition, the era has come when it is possible to reconstruct the existing image into the style you want.Through this, it is expected to post a more appropriate image and resolve much of the copyright-related disputes.
+<center>
+Figure 4. Google Style Transfer
+</center>
+  
+#### 3-3. Image restoration(not started)
 
+> If the above discussion is extended further, it may be difficult for some images, regardless of copyright, to have watermarks or unnecessary characters, even though their quality is quite good.In this case, it will be possible to restore the part we want by utilizing the deep image prior (DIP).
 
-Figure 4. Google Style Transfer2
+<center>
+  Figure 5. Inpainting using DIP 3]
+</center>
+  
+#### 3-4. Copyright detour strategy through image watermark development(not started)
 
-3-3. Image restoration(not started)
+> According to Article 102 Subparagraph 4 of the Copyright Act, "an act of making it possible to know the location of information and communication network works through information search tools" is not considered a copyright infringement.As a result, search engine platforms such as Google and Naver will be able to freely display images from copyright infringement.If you develop a technology that automatically watermarks images by displaying links to the original text of images and downloading them, uploading images to blogs can be free from copyright law.
 
-If the above discussion is extended further, it may be difficult for some images, regardless of copyright, to have watermarks or unnecessary characters, even though their quality is quite good.In this case, it will be possible to restore the part we want by utilizing the deep image prior (DIP).
+<br>
+<br>
 
+## 5. Initiative 4.complete translation project
 
-Figure 5. Inpainting using DIP 3]
+> ○ Limits of the Korean language market
 
-3-4. Copyright detour strategy through image watermark development(not started)
+>> 70 million Korean speakers worldwide. The world's population is 7 billion. Translation projects will be essential to ensure all 100x the benefits.We are planning a project in which when a post in a particular language is modified in Real-time, all other languages are modified.
 
-According to Article 102 Subparagraph 4 of the Copyright Act, "an act of making it possible to know the location of information and communication network works through information search tools" is not considered a copyright infringement.As a result, search engine platforms such as Google and Naver will be able to freely display images from copyright infringement.If you develop a technology that automatically watermarks images by displaying links to the original text of images and downloading them, uploading images to blogs can be free from copyright law.
+> ○ declaration of completion of a project
 
-5. Initiative 4.complete translation project
+>> The translation project was completed through five steps: html parsing → preprocessing → Naver Papago interworking → post-processing → simple correction of translation.I was very satisfied with the output, so I reviewed the patent application, but I decided to implement the know-how because I thought there was a possibility of a dispute with Naver Papago.As soon as the server is built, the program will be linked.
 
-○Limits of the Korean language market
+> ○ Example of translation
 
-70 million Korean speakers worldwide. The world's population is 7 billion. Translation projects will be essential to ensure all 100x the benefits.We are planning a project in which when a post in a particular language is modified in Real-time, all other languages are modified.
+>> ○ Statistics Overview
+>> ○ I' wouldn't an overly perfect translation system facilitate the outflow of domestic intellectual property overseas?
 
-○ declaration of completion of a project
+<br>
+<br>
 
-티TeaStory 티 Connecting Naver Papago Links to TeaStory
+## 6. Initiative 5.publishing project (complete)
 
-Recommendations for linking Naver Papago links to T-Story: Step 1. Manage Blogs → Decorate → Edit Skin → Edit html → HTML Step 2. Find and modify the following code 3. Delete the code above the code.
+> ○ Growth of education market
 
-nate9389.tistory.com
-The translation project was completed through five steps: html parsing → preprocessing → Naver Papago interworking → post-processing → simple correction of translation.I was very satisfied with the output, so I reviewed the patent application, but I decided to implement the know-how because I thought there was a possibility of a dispute with Naver Papago.As soon as the server is built, the program will be linked.
+>> The current market conditions are extraordinary.Southeast Asia and India have a large population of young people, but their educational level is very low.The demand for education in these regions is exploding, and in 10 years it will be a really remarkable market.And Africa.It is still undervalued, but the education market in 30 to 50 years is drawing attention.It is already well known that there are many negative factors in the domestic education market due to a lack of school-age population, and in the end, it would be the right direction to turn to overseas.Nevertheless, there is a great lack of means to look at market conditions.Therefore, I have adopted the publication of books as an indicator product to understand the atmosphere of the overseas education market.
 
-○Example of translation
+> ○ Rediscovering the possibility of publication
 
-○ Statistics Overview
+>> There is a part of the resume (curriculum vitae, CV) that says Honor.Literally honorable performanceIt's the part where you write.To list such examples, there must be language, GPA, volunteer work, exchange students, and prize winners, among which papers and patents are the most powerful.In order to write a thesis, you must meet certain requirements under the professors who hold the academy, and to write a patent requires knowledge of patents, invention completion, and considerable cost.There is a third honor on par with papers and patents, and that is publishing.I think more people don't know this part than I thought.In the future, the paper market will decline and the electronic publishing market will rise.It's amazing that anyone can publish through the endless growth potential of the electronic publishing market and easy electronic publishing.
 
-【Statistics】 Statistics Overview
+> ○ Festbook media(https://festbook.co.kr/)partnership with
 
-Statistics Overview Ⅰ. Combinatorics #1. Basics of Statistics #2. Number of Cases Ⅱ. Population #3. Probability Space #4. Random Variable and Distribution #5. Statistical Quantity #6. Discrete Pr..
+>> By rediscovering the growth of the education market and the possibility of publishing, I sought out e-publishing partners and proceeded with publication through Festbook Media.It's not an exclusive contract, but I think it's a good condition, so I'm looking forward to signing a number of publishing contracts (~100 volumes).
 
-classroom.tistory.com
-○ I': Wouldn't an overly perfect translation system facilitate the outflow of domestic intellectual property overseas?
+> ○ Example of publications
 
-6. Initiative 5.publishing project (complete)
+>> ○ Organic and chemical bible you want you to know
 
-○ Growth of education market
 
-The current market conditions are extraordinary.Southeast Asia and India have a large population of young people, but their educational level is very low.The demand for education in these regions is exploding, and in 10 years it will be a really remarkable market.And Africa.It is still undervalued, but the education market in 30 to 50 years is drawing attention.It is already well known that there are many negative factors in the domestic education market due to a lack of school-age population, and in the end, it would be the right direction to turn to overseas.Nevertheless, there is a great lack of means to look at market conditions.Therefore, I have adopted the publication of books as an indicator product to understand the atmosphere of the overseas education market.
 
-○Rediscovering the possibility of publication
+<figure id="og_1651388494836" style="margin-left: 2em;" contenteditable="false" data-ke-type="opengraph" data-ke-align="alignCenter" data-og-type="article" data-og-title="【티스토리】 티스토리에 네이버 파파고 링크 연결하기" data-og-description="티스토리에 네이버 파파고 링크 연결하기 추천글&nbsp;: 단계 1.&nbsp;블로그 관리 &rarr; 꾸미기 &rarr; 스킨 편집 &rarr; html 편집 &rarr; HTML 단계 2. 다음과 같은 코드가 있는 부분을 찾음 수정 삭제 단계 3. 그 코드 위에" data-og-host="nate9389.tistory.com" data-og-source-url="https://nate9389.tistory.com/2178" data-og-url="https://nate9389.tistory.com/2178" data-og-image="https://scrap.kakaocdn.net/dn/hxN15/hyOdvqIwQL/QCcuXTjSAkea3wQ9GPt940/img.png?width=800&amp;height=800&amp;face=0_0_800_800,https://scrap.kakaocdn.net/dn/uA51P/hyOdAet0BR/LnhQt6EUS9Efk5UFRTFeoK/img.png?width=800&amp;height=800&amp;face=0_0_800_800,https://scrap.kakaocdn.net/dn/LZNuZ/hyOfc4blJd/vNKceiIkqPQO1eacT3kanK/img.jpg?width=264&amp;height=200&amp;face=0_0_264_200"><a href="https://nate9389.tistory.com/2178" target="_blank" rel="noopener" data-source-url="https://nate9389.tistory.com/2178">
+<div class="og-image" style="background-image: url('https://scrap.kakaocdn.net/dn/hxN15/hyOdvqIwQL/QCcuXTjSAkea3wQ9GPt940/img.png?width=800&amp;height=800&amp;face=0_0_800_800,https://scrap.kakaocdn.net/dn/uA51P/hyOdAet0BR/LnhQt6EUS9Efk5UFRTFeoK/img.png?width=800&amp;height=800&amp;face=0_0_800_800,https://scrap.kakaocdn.net/dn/LZNuZ/hyOfc4blJd/vNKceiIkqPQO1eacT3kanK/img.jpg?width=264&amp;height=200&amp;face=0_0_264_200');">&nbsp;</div>
+<div class="og-text">
+<p class="og-title" data-ke-size="size16">【티스토리】 티스토리에 네이버 파파고 링크 연결하기</p>
+<p class="og-desc" data-ke-size="size16">티스토리에 네이버 파파고 링크 연결하기 추천글&nbsp;: 단계 1.&nbsp;블로그 관리 &rarr; 꾸미기 &rarr; 스킨 편집 &rarr; html 편집 &rarr; HTML 단계 2. 다음과 같은 코드가 있는 부분을 찾음 수정 삭제 단계 3. 그 코드 위에</p>
+<p class="og-host" data-ke-size="size16">nate9389.tistory.com</p>
+</div>
+</a></figure>
 
-There is a part of the resume (curriculum vitae, CV) that says Honor.Literally honorable performanceIt's the part where you write.To list such examples, there must be language, GPA, volunteer work, exchange students, and prize winners, among which papers and patents are the most powerful.In order to write a thesis, you must meet certain requirements under the professors who hold the academy, and to write a patent requires knowledge of patents, invention completion, and considerable cost.There is a third honor on par with papers and patents, and that is publishing.I think more people don't know this part than I thought.In the future, the paper market will decline and the electronic publishing market will rise.It's amazing that anyone can publish through the endless growth potential of the electronic publishing market and easy electronic publishing.
 
-○Festbook media(https://festbook.co.kr/)partnership with
 
-By rediscovering the growth of the education market and the possibility of publishing, I sought out e-publishing partners and proceeded with publication through Festbook Media.It's not an exclusive contract, but I think it's a good condition, so I'm looking forward to signing a number of publishing contracts (~100 volumes).
+>> ○ From the first step to the tenth step in statistics
 
-○Example of publications
+>> ○ Biology as a whole - Microscopic understanding
 
-○Organic and chemical bible you want you to know
+<br>
+<br>
 
-Organic Chemistry Bible You Want to Know - YES24
+## 7. Initiative 6. Apps on a Blog
 
-I opened a blog called 'Jungbin's Study Room' to gather stories from many people.The enthusiasm for organic chemistry is still great, but a few years ago, organic chemistry was essential for various entrance exams.
+#### 6-1. Not started
 
-www.yes24.com
-○ From the first step to the tenth step in statistics
+> My curiosity is also connected with social statistics.There is a limit to the literature to understand that.Therefore, we plan to activate the Quick Toolbar pop-up window to proceed with the survey.Besides, there's nothing much to do with the voting system.According to Mecalf's law, networks have a value proportional to their square.I think that theory can also be applied to YouTube and sites.I'd like to confirm that.
 
-Statistics (including mathematics, computer engineering, and economics) from first to tenth steps - YES24
+#### 6-2. Not started
 
-AlphaGo appeared in this world through a historical Go match in 2016.The implication of AlphaGo's existence is that, first, we can understand the world with a black box, and second, we can dip into the vast amount of information around us.
+> Wikipedia is a list, but knowledge must be sorted into trees. What if all knowledge is ordered?The knowledge that follows can only be explained by the knowledge in front.In that way, we can order all knowledge and create artificial intelligence that determines how many times that knowledge comes when new knowledge comes.That knowledge will automatically be placed in the right place, so that the machine can understand the new knowledge.If you have a sentence that says "A consists of B and C," you can place it right after the last of A, B, and C.It's going to take a lot of work.I'm not in a hurry right now.
 
-www.yes24.com
-○ Biology as a whole - Microscopic understanding
+#### 6-3. Automatically trimming the text(complete)
 
-Biology as a whole - YES24
+> It has already been implemented through Python.
 
-It was in 2009 that I first started collecting information about biology.I started collecting knowledge one by one because I felt sorry for losing the interesting biological knowledge I gained while reading the book by book by book.And then we...
+#### 6-4.Image in-link (not started)
 
-www.yes24.com
+> ○ Example (www.creative-diagnostics.com)
 
+#### 6-5. Simple Apps on a Blog (in progress)
 
-7. Initiative 6. Apps on a Blog
+> First of all, I plan to install a simple app on my blog.
 
-6-1. Not started
+> ✓Connecting a Neighbor Papago Link to a T-Story
 
-My curiosity is also connected with social statistics.There is a limit to the literature to understand that.Therefore, we plan to activate the Quick Toolbar pop-up window to proceed with the survey.Besides, there's nothing much to do with the voting system.According to Mecalf's law, networks have a value proportional to their square.I think that theory can also be applied to YouTube and sites.I'd like to confirm that.
+> ✓ Hippocratic temperament test program
 
-6-2. Not started
+> ✓ Implementation of data calls from DB when entering text on a web page
 
-Wikipedia is a list, but knowledge must be sorted into trees. What if all knowledge is ordered?The knowledge that follows can only be explained by the knowledge in front.In that way, we can order all knowledge and create artificial intelligence that determines how many times that knowledge comes when new knowledge comes.That knowledge will automatically be placed in the right place, so that the machine can understand the new knowledge.If you have a sentence that says "A consists of B and C," you can place it right after the last of A, B, and C.It's going to take a lot of work.I'm not in a hurry right now.
+> ✓ Implement interactive graphs on web pages using Node.js-based Bokeh
 
-6-3. Automatically trimming the text(complete)
+> ✓ statistical graph visualizer
 
-It has already been implemented through Python.
+> ✓ construction of a protein library through AlphaFold2
 
-6-4.Image in-link (not started)
+> ✗ Link to the wiki page: Go to the appropriate link, such as https://en.wikipedia.org/wiki/ [KEYWORD]
 
-○Example
+> ✗ A program that automatically shuffles tarot cards (planned)
 
-EGF/EGFR Signaling Pathway - Creative Diagnostics
+> ✗ Various types of converters (planned): won-dollar exchange rate, etc.
 
-Figure 1. EGF/EGFR Signaling Pathway. EGF/EGFR overview EGFR(Epidermal growth factor receptor), or ErbB1/human epidermal growth factor receptor (HER)-1, is a transmembrane protein which is the receptor of the ligands from EGF family. EGFR is a 170-kDa glyc
+> ✗ Web-based MBTI test (planned)
 
-www.creative-diagnostics.com
-6-5. Simple Apps on a Blog (in progress)
+> ✗ A program that explains history on a 4D map (planned)
 
-First of all, I plan to install a simple app on my blog.
+> ✗ Program for calculating the timing requirements of patents (planned)
 
-✓Connecting a Neighbor Papago Link to a T-Story
+#### 6-6. Database on a Blog (not started)
 
-✓ Hippocratic temperament test program
+> ○ Method 1. It is not difficult at all if you install the dataset on the NAS and turn the corresponding url over to the blog.
 
-✓ Implementation of data calls from DB when entering text on a web page
+> ○ Method 2. I'm seriously thinking about GitHub.
 
-✓ Implement interactive graphs on web pages using Node.js-based Bokeh
+> ○ However, it is a question of which dataset to share.
 
-✓ statistical graph visualizer
+> ○ Currently, the focus is on biological information data sets such as TCGA and GEO: A good example of UCSC Xena.
 
-✓ construction of a protein library through AlphaFold2
+#### 6-7. How to present the blueprint of human knowledge in tSNE (not started)
 
-위키Link to the wiki page: Go to the appropriate link, such as https://en.wikipedia.org/wiki/ [KEYWORD]
+> ○ https://artsexperiments.withgoogle.com/tsnemap/
 
-✗A program that automatically shuffles tarot cards (planned)
-
-✗ Various types of converters (planned): won-dollar exchange rate, etc.
-
-✗ Web-based MBTI test (planned)
-
-✗A program that explains history on a 4D map (planned)
-
-✗Program for calculating the timing requirements of patents (planned)
-
-6-6. Database on a Blog (not started)
-
-○ Method 1. It is not difficult at all if you install the dataset on the NAS and turn the corresponding url over to the blog.
-
-○ Method 2. I'm seriously thinking about GitHub.
-
-○ However, it is a question of which dataset to share.
-
-○ Currently, the focus is on biological information data sets such as TCGA and GEO: A good example of UCSC Xena.
-
-UCSC Xena
-
-Warning: It appears as though you do not have javascript enabled. The UCSC Xena browser relies heavily on JavaScript and will not function without it enabled. Thank you for your understanding.
-
-xenabrowser.net
-6-7. How to present the blueprint of human knowledge in tSNE (not started)
-
-○ https://artsexperiments.withgoogle.com/tsnemap/
-
-Google Arts & Culture Experiments - t-SNE Map Experiment
-
-What if art was a land you could walk in? Explore a 3D interactive map of artworks shaped by machine learning with Google Arts & Cutlure
-
-artsexperiments.withgoogle.com
-
+<center>
 Figure 6. A method of representing the blueprint of knowledge in tSNE.
+</center>
 
-8. Initiative 7. Human-Computer Interface (HCI)(not started)
+<br>
+<br>
+  
+## 8. Initiative 7. Human-Computer Interface (HCI)(not started)
 
-7-1 Acquisition of Knowledge
+#### 7-1 Acquisition of Knowledge
 
-What if you could organize all your knowledge?What if you could put VR devices into practical use?What if you could analyze brain waves through deep learning?You will be able to make a device that acquires knowledge just by wearing it on your head like a hat.
+> What if you could organize all your knowledge?What if you could put VR devices into practical use?What if you could analyze brain waves through deep learning?You will be able to make a device that acquires knowledge just by wearing it on your head like a hat.
 
-7-2. Generation of Knowledge
+#### 7-2. Generation of Knowledge
 
-If the above discussion is expanded, it will be possible to create a device that secures the person's knowledge system just by writing it on the head.Wouldn't it be possible to realize human immortality or human computerization?
+> If the above discussion is expanded, it will be possible to create a device that secures the person's knowledge system just by writing it on the head.Wouldn't it be possible to realize human immortality or human computerization?
 
-7-3. Reorganization of Human Personality
+#### 7-3. Reorganization of Human Personality
 
-If you have an encyclopedia of search engines and everything, you can track the content that a particular individual reads, and you can implement the schema in that person's head.
+> If you have an encyclopedia of search engines and everything, you can track the content that a particular individual reads, and you can implement the schema in that person's head.
 
-9. Initiative 8.philosophy of knowledge
+<br>
+<br>
 
-○ Idea 1. You can give order to all knowledge.
+## 9. Initiative 8.philosophy of knowledge
 
-○ Idea 2. P vs NP problem.Proving that the problem is an easy one without solving it.Based on my experience, solving problems and checking are completely separate processes, but are these two really connected?If we finish worrying about knowledge, we can solve this problem.Is it possible to solve such a problem in the first place?
+> ○ Idea 1. You can give order to all knowledge.
 
-10.closing
+> ○ Idea 2. P vs NP problem.Proving that the problem is an easy one without solving it.Based on my experience, solving problems and checking are completely separate processes, but are these two really connected?If we finish worrying about knowledge, we can solve this problem.Is it possible to solve such a problem in the first place?
 
-I want to build a Tower of Knowledge.
+<br>
+<br>
 
-I will climb to the top of the world and wait for you there.
+## 10.closing
+
+> I want to build a Tower of Knowledge.
+
+> I will climb to the top of the world and wait for you there.
+
+---
 
 Source: Sameer Agarwal, Noah Snavely, Ian Simon, Steven M. Seitz and Richard Szeliski, Building Rome in a Day.ICCV (2009).Visual Understanding and Machine Learning (2021) Instructional Materials (Professor Lee Joon-seok) [To the text]
 Source: Visual understanding and machine learning (2021) Instructional materials (Professor Lee Joon-seok) [To the text]
