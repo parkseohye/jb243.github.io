@@ -13,13 +13,14 @@
 .book.with-summary .book-body .book-header {
     position: fixed;
     width: calc(100% - 300px);
-    color: #000000; # I added
+    color: #000000; /* I added */
 }
 
 .book-body .body-inner {
     /* position: absolute; */
     margin-top: 50px;
     min-height: calc(100% - 50px);
+    color: #000000; /* I added */
 }
 
 .book-body .body-inner .page-wrapper {
@@ -39,6 +40,7 @@
 
 .book .book-body .book-header {
     background: #ffffff;
+     color: #000000; /* I added */
 }
 
 .book.color-theme-1 .book-body .book-header {
@@ -51,6 +53,7 @@
 
 .page-inner {
     max-width: {{ site.page_width | default: '800px' }};
+    color: #000000; /* I added */
 }
 
 .back-to-top {
