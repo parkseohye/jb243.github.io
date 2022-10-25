@@ -401,5 +401,7 @@ Figure 6. A method of representing the blueprint of knowledge in tSNE.
 ---
 
 Source: Sameer Agarwal, Noah Snavely, Ian Simon, Steven M. Seitz and Richard Szeliski, Building Rome in a Day.ICCV (2009).Visual Understanding and Machine Learning (2021) Instructional Materials (Professor Lee Joon-seok) [To the text]
+<br>
 Source: Visual understanding and machine learning (2021) Instructional materials (Professor Lee Joon-seok) [To the text]
+<br>
 Source: https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf [To the text]
