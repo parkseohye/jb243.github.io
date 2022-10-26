@@ -6,21 +6,21 @@ Higher category**:** 【Philosophy】 [My Questions and Principles](https://clas
 
 ---
 
-**1**. Mathematics [\[Body\]](#footnote_link_67_50)
+**1**. Mathematics [\[Body\]]
 
-**2\.** Physics [\[Body\]](#footnote_link_67_51)
+**2\.** Physics [\[Body\]]
 
-**3.** Chemistry [\[Body\]](#footnote_link_67_52)
+**3.** Chemistry [\[Body\]]
 
-**4.** Biology [\[Body\]](#footnote_link_67_53)
+**4.** Biology [\[Body\]]
 
-**5.** Earth science [\[Body\]](#footnote_link_67_54)
+**5.** Earth science [\[Body\]]
 
-**6.** Computer Science [\[Body\]](#footnote_link_67_55)
+**6.** Computer Science [\[Body\]]
 
-**7.** Appropriate Technology [\[Body\]](#footnote_link_67_56)
+**7.** Appropriate Technology [\[Body\]]
 
-**8.** Environment [\[Body\]](#footnote_link_67_57)
+**8.** Environment [\[Body\]]
 
 ---
 
@@ -34,610 +34,677 @@ Higher category**:** 【Philosophy】 [My Questions and Principles](https://clas
 
 <br>
 
-**1\. Mathematics [\[Head\]](#footnote_67_50)**
+## **1\. Mathematics**
 
-**1-1.Geometry**
+#### **1-1.Geometry**
 
-○ Can we turn the sphere inside out by stretching it out?
+> ○ Can we turn the sphere inside out by stretching it out?
 
-**➜ It has been demonstrated that it is possible to flip the inside and outside of a sphere using a topological transformation.** **(**[Link](https://www.youtube.com/watch?v=OI-To1eUtuU)**)**
+>> **➜ It has been demonstrated that it is possible to flip the inside and outside of a sphere using a topological transformation.** **(**[Link](https://www.youtube.com/watch?v=OI-To1eUtuU)**)**
 
-○ In geometry, why does Euler's law, that is v - e + f = 2, fundamentally hold?
+> ○ In geometry, why does Euler's law, that is v - e + f = 2, fundamentally hold?
 
-○ Does the geometry of the virus have any biological advantages?
+> ○ Does the geometry of the virus have any biological advantages?
 
-○ What if you go 1.5 m to the south, 1.5 m to the west, and 1.5 m to the north, but you returned to your original position? When is the situation? (SpaceX Interview Question) North Pole and 1.5 m north from the South Pole are the answer. What about other structures covered in non-Euclidean geometry, such as saddle structures?
+> ○ What if you go 1.5 m to the south, 1.5 m to the west, and 1.5 m to the north, but you returned to your original position? When is the situation? (SpaceX Interview Question) North Pole and 1.5 m north from the South Pole are the answer. What about other structures covered in non-Euclidean geometry, such as saddle structures?
 
-○ Can you calculate the number of grooves of golf balls? (Google Interview Question) When solving this problem, how about using a formula for the area of a spherical triangle?  
+> ○ Can you calculate the number of grooves of golf balls? (Google Interview Question) When solving this problem, how about using a formula for the area of a spherical triangle?  
 
-**1-2. Algebra** 
+<br>
 
-○ Simple 2D matrix multiplication is complicated. How can we define the multiplication of a hypermatrix (e.g., a three-dimensional matrix)?
+#### **1-2. Algebra** 
 
-○ Can the Riemann hypothesis be considered axiomatic to lead to useful mathematical conclusions?  
+> ○ Simple 2D matrix multiplication is complicated. How can we define the multiplication of a hypermatrix (e.g., a three-dimensional matrix)?
 
-**1-3. Theory of Combination**
+> ○ Can the Riemann hypothesis be considered axiomatic to lead to useful mathematical conclusions?  
 
-○ Why is the standard deviation of the sample mean different from the standard deviation of the sample ratio? Are they surely different?
+<br>
 
-○ If **X1** and **X2** are statistically significantly different, are log **X1** and log **X2** also statistically significantly different?
+#### **1-3. Theory of Combination**
 
-○ Isn't it an example of the theorem of imperfections that life cannot be perfectly defined?
+> ○ Why is the standard deviation of the sample mean different from the standard deviation of the sample ratio? Are they surely different?
 
-○ There are quite a few people with the same number of hairs according to the pigeonhole principle. Are there any other unexpected results obtained using the pigeonhole principle?
+> ○ If **X1** and **X2** are statistically significantly different, are log **X1** and log **X2** also statistically significantly different?
 
-○ The reason why there are few combinatorial theories is because the field itself is not profound or has not been studied?
+> ○ Isn't it an example of the theorem of imperfections that life cannot be perfectly defined?
 
-**1-4. Theory of Integers**
+> ○ There are quite a few people with the same number of hairs according to the pigeonhole principle. Are there any other unexpected results obtained using the pigeonhole principle?
 
-○ How do you divide students when there are 28 students? If you divide students into 4 teams with 7 people, there will be students who don't have partners, which will be a problem.
+> ○ The reason why there are few combinatorial theories is because the field itself is not profound or has not been studied?
 
-**1-5. Modern Mathematics**
+<br>
 
-○ Can we always find an error from any system by applying Gödel's theorem of imperfection? For example, what errors does the Constitution have?
+#### **1-4. Theory of Integers**
 
-○ Is the difficulty of defining living things also an example of Gödel's theorem of imperfections?
+> ○ How do you divide students when there are 28 students? If you divide students into 4 teams with 7 people, there will be students who don't have partners, which will be a problem.
 
-○ Why is math abbreviated to only four areas?
+<br>
 
- ○ The first Korean who won the Fields Medal solved renown problems by combining geometry and theory of combination. Why can't the problems be solved without combining different disciplines?
+#### **1-5. Modern Mathematics**
 
-**2\. Physics [\[Head\]](#footnote_67_51)**
+> ○ Can we always find an error from any system by applying Gödel's theorem of imperfection? For example, what errors does the Constitution have?
 
-**2-1. Dynamics**
+> ○ Is the difficulty of defining living things also an example of Gödel's theorem of imperfections?
 
-○ Is there a formula of the speed of movement when the fire moves through the lamp wick?
+> ○ Why is math abbreviated to only four areas?
 
-○ The reason why the coefficient of kinetic friction is smaller than the coefficient of static friction. 
+> ○ The first Korean who won the Fields Medal solved renown problems by combining geometry and theory of combination. Why can't the problems be solved without combining different disciplines?
 
-○ The bus is shaking when it stops. Why isn't there such a vibration when you start?
+<br>
+<br>
 
-**2-2. Transfer Phenomena**
+## **2\. Physics [\[Head\]](#footnote_67_51)**
 
-○ Why does a golf ball with a groove on the surface fly farther?
+#### **2-1. Dynamics**
 
-**➜ In the case of a smooth ball, when the ball moves at the right speed, the boundary layer is separated from the middle of the ball. At this time, from the middle of the ball, the speed of the air rapidly decreases, and at the same time, the direction of the airflow changes to form a circulation flow. In this case, high pressure is applied on the front side of the ball and low pressure on the back side, resulting in a large morphological resistance. On the other hand, in the case of a grooved ball, turbulent flow occurs on the front surface of the ball, and thus separation and circulation of the boundary layer become much smaller. This reduces the resistance of the ball.**
+> ○ Is there a formula of the speed of movement when the fire moves through the lamp wick?
 
-○ The reason why the wind blows hard when you pass through the door when the temperature difference is large.
+> ○ The reason why the coefficient of kinetic friction is smaller than the coefficient of static friction. 
 
-○ Why does the pressure in the train going through the tunnel decrease?
+> ○ The bus is shaking when it stops. Why isn't there such a vibration when you start?
 
-○ The reason why a cap of a bottle keeps vibrating when the cap is closed ambiguously.
+<br>
 
-○ Is the pressure on the other side lowered by blowing at one end of the nozzle? What if the end is hot?
+#### **2-2. Transfer Phenomena**
 
-○ Does true randomness exist in nature?
+> ○ Why does a golf ball with a groove on the surface fly farther?
 
-**2-3. Dynamics of Waves** 
+>> **➜ In the case of a smooth ball, when the ball moves at the right speed, the boundary layer is separated from the middle of the ball. At this time, from the middle of the ball, the speed of the air rapidly decreases, and at the same time, the direction of the airflow changes to form a circulation flow. In this case, high pressure is applied on the front side of the ball and low pressure on the back side, resulting in a large morphological resistance. On the other hand, in the case of a grooved ball, turbulent flow occurs on the front surface of the ball, and thus separation and circulation of the boundary layer become much smaller. This reduces the resistance of the ball.**
 
-○ Remember the vibrating bus window. Why can't you hear the vibration when a bus starts to run or a car passes by?
+> ○ The reason why the wind blows hard when you pass through the door when the temperature difference is large.
 
-**2-4. Electromagnetics**
+> ○ Why does the pressure in the train going through the tunnel decrease?
 
-○ Can nanorobots be used for treatment by applying exterior magnetic fields?
+> ○ The reason why a cap of a bottle keeps vibrating when the cap is closed ambiguously.
 
-**➜** **It's been implemented already in [DGIST](https://www.dgist.ac.kr/kr/html/sub06/060102.html?mode=V&no=0a1d8dc33c00b6b0aee73014e09bc1d2).** **The blood flow is fast, making it difficult to control the nanorobot, but the neural tract did not have such an issue, so the nanorobot was moved along the tract.**
+> ○ Is the pressure on the other side lowered by blowing at one end of the nozzle? What if the end is hot?
 
-○ Is there a new substance that can remove dust using static electricity?
+> ○ Does true randomness exist in nature?
 
-○ Relationship between the electronegativity of chemicals and Coulomb force.
+<br>
 
-○ A lock with a magnetic field? For example, only certain objects are unlocked, moved, and then locked again by using a magnetic field.
+#### **2-3. Dynamics of Waves** 
 
-○ Can a cell phone case that is shielded by electromagnetic waves reduce signal interference from a cell phone?
+> ○ Remember the vibrating bus window. Why can't you hear the vibration when a bus starts to run or a car passes by?
 
-○ The mosquito net looks similar to a Faraday cage. Can it be applied to electromagnetic shielding?
+#### **2-4. Electromagnetics**
 
-○ Is it easy to find a lost cell phone using electromagnetism?
+> ○ Can nanorobots be used for treatment by applying exterior magnetic fields?
 
-○ Why does animal fur stick to clothes? Is it because of static electricity? Then wouldn't it be possible to remove the hair on your clothes if you give it an electrical stimulus?
+>> **➜** **It's been implemented already in [DGIST](https://www.dgist.ac.kr/kr/html/sub06/060102.html?mode=V&no=0a1d8dc33c00b6b0aee73014e09bc1d2).** **The blood flow is fast, making it difficult to control the nanorobot, but the neural tract did not have such an issue, so the nanorobot was moved along the tract.**
 
-○ The magnetic field around an electric pad is 10 G, which is smaller than the Earth's magnetic field of 40 G. But why does a neodymium magnet vibrate around the electric pad?
+> ○ Is there a new substance that can remove dust using static electricity?
 
-○ Why does a thin wire split into beads when a 220 V voltage is applied to it? And what is the reason that such a steel ball falls toward a certain part of the electric pad?
+> ○ Relationship between the electronegativity of chemicals and Coulomb force.
 
-**2-5. Optics**
+> ○ A lock with a magnetic field? For example, only certain objects are unlocked, moved, and then locked again by using a magnetic field.
 
-○ Is it possible to create an impressive visualization by properly positioning mirrors?
+> ○ Can a cell phone case that is shielded by electromagnetic waves reduce signal interference from a cell phone?
 
-○ What is the exact mathematical formula to illustrate Tyndall phenomenon? Wouldn't it be possible to implement a hologram using this formula?
+> ○ The mosquito net looks similar to a Faraday cage. Can it be applied to electromagnetic shielding?
 
-**2-6. Modern Physics**
+> ○ Is it easy to find a lost cell phone using electromagnetism?
 
-○ Maxwell argued that light is an electromagnetic wave by showing the speed of an electromagnetic wave is c. However, in particle physics, particles with a speed of c are not only photons. Are real photons that make up observable light and virtual photons, which are gauge bosons that mediate electromagnetic force, the same?
+> ○ Why does animal fur stick to clothes? Is it because of static electricity? Then wouldn't it be possible to remove the hair on your clothes if you give it an electrical stimulus?
 
-**➜ Cherenkov emission (Cherenkov radiation) reveals that virtual photons can also be real photons.**
+> ○ The magnetic field around an electric pad is 10 G, which is smaller than the Earth's magnetic field of 40 G. But why does a neodymium magnet vibrate around the electric pad?
 
-○ Why is the theory of relativity limited to speed (special) and acceleration (general)? What about functions with dimensions greater than acceleration?
+> ○ Why does a thin wire split into beads when a 220 V voltage is applied to it? And what is the reason that such a steel ball falls toward a certain part of the electric pad?
 
-**➜ There are 4 forces in Physics and there is something in common that all of these forces are inversely proportional to the square of the distance according to the field theory and are limited to acceleration. In light of these commonalities, it is thought that 4 forces are ultimately governed by one principle (related to the great unification theory) and it appears that our universe has 'regulated' to limit the order of motion of objects to acceleration (related to multiverse cosmology). This is why relativity theory is limited to acceleration, and the reason why objects around it do not appear to be limited to acceleration is that the tendency is obscured by complex system phenomena.**
+<br>
 
-○ Let's say the wave is passing through one medium. If the medium suddenly moves perpendicular to the direction in which the wave travels, how will the direction of the wave change? Perhaps mechanical waves do not change their direction at all, but what about light?
+#### **2-5. Optics**
 
-○ Can the energy of reflected light and the energy of refracted light be interpreted as the principle of Huygens?
+> ○ Is it possible to create an impressive visualization by properly positioning mirrors?
 
-○ It is known that the coordination of heavy metals with chelators greatly reduces toxicity in vivo. Then why don't we use chelators to decontaminate radiation waste?
+> ○ What is the exact mathematical formula to illustrate Tyndall phenomenon? Wouldn't it be possible to implement a hologram using this formula?
 
-**3\. Chemistry [\[Head\]](#footnote_67_52)**
+<br>
 
-○ Given a molecular weight, how can you easily derive a chemical formula? I think we can adopt ideas from the theory of integers.
+#### **2-6. Modern Physics**
 
-○ Can we contribute to solving global warming by filtering only carbon dioxide?
+> ○ Maxwell argued that light is an electromagnetic wave by showing the speed of an electromagnetic wave is c. However, in particle physics, particles with a speed of c are not only photons. Are real photons that make up observable light and virtual photons, which are gauge bosons that mediate electromagnetic force, the same?
 
-○ Is it possible to analyze the function of the time it takes for ice to freeze or melt in relation to the Mpemba phenomenon?  
+>> **➜ Cherenkov emission (Cherenkov radiation) reveals that virtual photons can also be real photons.**
 
-○ Is the Mpemba phenomenon because how water does not make crystal structures well and freezes?
+> ○ Why is the theory of relativity limited to speed (special) and acceleration (general)? What about functions with dimensions greater than acceleration?
 
-○ The reason why the paper feels different and the color becomes weird when it touches the water.
+>> **➜ There are 4 forces in Physics and there is something in common that all of these forces are inversely proportional to the square of the distance according to the field theory and are limited to acceleration. In light of these commonalities, it is thought that 4 forces are ultimately governed by one principle (related to the great unification theory) and it appears that our universe has 'regulated' to limit the order of motion of objects to acceleration (related to multiverse cosmology). This is why relativity theory is limited to acceleration, and the reason why objects around it do not appear to be limited to acceleration is that the tendency is obscured by complex system phenomena.**
 
-○ Wouldn't it be nutritionally advantageous to put the iron powder in carbohydrates like cereal?
+> ○ Let's say the wave is passing through one medium. If the medium suddenly moves perpendicular to the direction in which the wave travels, how will the direction of the wave change? Perhaps mechanical waves do not change their direction at all, but what about light?
 
-○ Can you make food with a 3D printer?
+> ○ Can the energy of reflected light and the energy of refracted light be interpreted as the principle of Huygens?
 
-○ Is it possible to make a smartphone into a 3D printer?
+> ○ It is known that the coordination of heavy metals with chelators greatly reduces toxicity in vivo. Then why don't we use chelators to decontaminate radiation waste?
 
-○ An invention where a writing in a letter becomes automatically fluorescent? For example, we can think of a system in which chemicals can react with sunlight.
+<br>
+<br>
 
-○ The water on the bottom of the coaster does not evaporate, so there may be hygiene problems. How do we solve this?
+## **3\. Chemistry**
 
-○ There are hundreds of chemical reactions that human use. However, since there are about 3,000 genes of E.coli, the metabolic reactions used by E.coli are much more diverse. Can humanity implement all the different chemical reactions as E.coli?
+> ○ Given a molecular weight, how can you easily derive a chemical formula? I think we can adopt ideas from the theory of integers.
 
-**4\. Biology [\[Head\]](#footnote_67_53)**
+> ○ Can we contribute to solving global warming by filtering only carbon dioxide?
 
-**4-1. Animals and Plants**
+> ○ Is it possible to analyze the function of the time it takes for ice to freeze or melt in relation to the Mpemba phenomenon?  
 
-○ Plants drop leaves so that nutrients are not taken away in winter but do other droughts and typhoons also make plants drop leaves?
+> ○ Is the Mpemba phenomenon because how water does not make crystal structures well and freezes?
 
-**➜ In the case of drought, abscisic acid is known to be involved. However, typhoons appear to be a physical factor that causes the leaves to fall.** 
+> ○ The reason why the paper feels different and the color becomes weird when it touches the water.
 
-○ Why do mosquitoes bury themselves in toothpaste the next day after squeezing toothpaste?
+> ○ Wouldn't it be nutritionally advantageous to put the iron powder in carbohydrates like cereal?
 
-**➜ There is titanium dioxide in toothpaste, which releases carbon dioxide under photocatalysts.**
+> ○ Can you make food with a 3D printer?
 
-○ Have camels evolved in its current form to adapt to the desert? 
+> ○ Is it possible to make a smartphone into a 3D printer?
 
-**➜ In fact, camels have evolved to adapt to the ice age.**
+> ○ An invention where a writing in a letter becomes automatically fluorescent? For example, we can think of a system in which chemicals can react with sunlight.
 
-○ When do animals and plants exert maximum energy to strive to live? And, how?
+> ○ The water on the bottom of the coaster does not evaporate, so there may be hygiene problems. How do we solve this?
 
-○ The relationship between birds flying far and high and feathers  
+> ○ There are hundreds of chemical reactions that human use. However, since there are about 3,000 genes of E.coli, the metabolic reactions used by E.coli are much more diverse. Can humanity implement all the different chemical reactions as E.coli?
 
-○ Can living things suddenly turn into social creatures if they form a group?
+<br>
+<br>
 
-○ How can sea snails be in salty seas?
+## **4\. Biology [\[Head\]](#footnote_67_53)**
 
-○ How do creatures that are tightly attached to rocks stick together? Glue?
+#### **4-1. Animals and Plants**
 
-○ What's the difference between a tree dropping a leaf and a grass dropping a leaf?
+> ○ Plants drop leaves so that nutrients are not taken away in winter but do other droughts and typhoons also make plants drop leaves?
 
-○ How to drop leaves when plants have to drop leaves except for fallen leaves?  
+>> **➜ In the case of drought, abscisic acid is known to be involved. However, typhoons appear to be a physical factor that causes the leaves to fall.** 
 
-○ Animals that don't get heat rash?  
+> ○ Why do mosquitoes bury themselves in toothpaste the next day after squeezing toothpaste?
 
-○ How do mosquitoes know that there is a lot of blood?
+>> **➜ There is titanium dioxide in toothpaste, which releases carbon dioxide under photocatalysts.**
 
-○ Idea of combining carbon dioxide generator and mosquito repellent.
+> ○ Have camels evolved in its current form to adapt to the desert? 
 
-○ What color does the fly not move on?
+>> **➜ In fact, camels have evolved to adapt to the ice age.**
 
-○ It looks like a spider shakes its web when it is threatened. Is that true? Then how do you shake it?
+> ○ When do animals and plants exert maximum energy to strive to live? And, how?
 
-○ Black Soldier Fly eats anything well, and it is known that intestinal microorganisms are important. However, this is said to be applied only in larvae, and adult insects drink only water. How can we use this?
+> ○ The relationship between birds flying far and high and feathers  
 
-○ Are there any bats that use microwaves other than ultrasound?
+> ○ Can living things suddenly turn into social creatures if they form a group?
 
-○ How fast is the bee population decreasing and how do you prepare for it?
+> ○ How can sea snails be in salty seas?
 
-○ The flight method of honeybees is said to be unique, such as drawing eight characters. Can it be implemented with a robot?
+> ○ How do creatures that are tightly attached to rocks stick together? Glue?
 
-○ Do house mosquitoes breed in the same way regardless of their habitat in Africa, Asia, Europe, or the United States?
+> ○ What's the difference between a tree dropping a leaf and a grass dropping a leaf?
 
-○ Why shouldn't dogs eat chocolate, nuts, onions, grapes, squid, etc?
+> ○ How to drop leaves when plants have to drop leaves except for fallen leaves?  
 
-○ Is there a general formula for distinguishing between female and male flowers?
+> ○ Animals that don't get heat rash?  
 
-○ How can maggots survive on nutrients full of bacteria?
+> ○ How do mosquitoes know that there is a lot of blood?
 
-○ Why do chickens shake their heads?
+> ○ Idea of combining carbon dioxide generator and mosquito repellent.
 
-○ Can ecosystem disturbance species be understood as the destruction of Nash equilibrium?
+> ○ What color does the fly not move on?
 
-○ The mouse also has a toilet and a sleeping area. Which part of the brain is in charge of this and evolutionarily since when?
+> ○ It looks like a spider shakes its web when it is threatened. Is that true? Then how do you shake it?
 
-○ Onion removes fat and garlic prevents the stomach from spoiling. How does that work?
+> ○ Black Soldier Fly eats anything well, and it is known that intestinal microorganisms are important. However, this is said to be applied only in larvae, and adult insects drink only water. How can we use this?
 
-○ Why are the composition of shells of clam (_i.e._, calcium carbonate) and the composition of crustaceans and arthropod skeletons (_i.e._, chitin) different?
+> ○ Are there any bats that use microwaves other than ultrasound?
 
-○ Why is there jelly on the cat's feet but not on the rabbit's feet?
+> ○ How fast is the bee population decreasing and how do you prepare for it?
 
-○ What insects or animals live very deep in the ground (e.g., near the mantle)? Is there a lot that hasn't been discovered yet?
+> ○ The flight method of honeybees is said to be unique, such as drawing eight characters. Can it be implemented with a robot?
 
-○ Does a plant differentiate pores in the direction of a more efficient gas exchange rate? If so, wouldn't it be possible to know the efficient arrangement of a building through a plant model during gas circulation?
+> ○ Do house mosquitoes breed in the same way regardless of their habitat in Africa, Asia, Europe, or the United States?
 
-○ What kinds of smiling animals are there and why do they laugh?
+> ○ Why shouldn't dogs eat chocolate, nuts, onions, grapes, squid, etc?
 
-**4-2. Physiology**
+> ○ Is there a general formula for distinguishing between female and male flowers?
 
-○ Why does it taste different when you're full and hungry?
+> ○ How can maggots survive on nutrients full of bacteria?
 
-**➜ Appetite-regulating hormones including leptin, PYY, CCK, etc are involved in the linkage between taste and hunger.**
+> ○ Why do chickens shake their heads?
 
-○ Why is it easier for humans to recognize two dimensions than three dimensions?
+> ○ Can ecosystem disturbance species be understood as the destruction of Nash equilibrium?
 
-**➜ The world is three-dimensional, and the first dimension is consumed in the process of forming an image on the retina through the pupil.**
+> ○ The mouse also has a toilet and a sleeping area. Which part of the brain is in charge of this and evolutionarily since when?
 
-○ What factors determine your voice besides your physique?
+> ○ Onion removes fat and garlic prevents the stomach from spoiling. How does that work?
 
-**➜ The trembling of the vocal cords is the voice, so the thickness and arrangement of the muscles are important.**
+> ○ Why are the composition of shells of clam (_i.e._, calcium carbonate) and the composition of crustaceans and arthropod skeletons (_i.e._, chitin) different?
 
-○ Why is it difficult to do repetitive things when you try to do them without thinking about them? For example, if you think, "how am I doing this?", you can't do what you've been doing repeatedly.
+> ○ Why is there jelly on the cat's feet but not on the rabbit's feet?
 
-**➜ Because the cerebellum is trying to do what the cerebellum was doing well.**
+> ○ What insects or animals live very deep in the ground (e.g., near the mantle)? Is there a lot that hasn't been discovered yet?
 
-○ Why does exercise suppress digestion? 
+> ○ Does a plant differentiate pores in the direction of a more efficient gas exchange rate? If so, wouldn't it be possible to know the efficient arrangement of a building through a plant model during gas circulation?
 
-**➜ The sympathetic nerves that are activated by exercise inhibit the digestive activity**
+> ○ What kinds of smiling animals are there and why do they laugh?
 
-○ Why is your body tired if you use your brain a lot?
+<br>
 
-**➜ Glucose can pass BBB and it is quickly absorbed by neurons expressing GLUT1. After that, the glycolysis occurs in the cytoplasm, and the cytoplasmic NADH is rapidly transferred to the mitochondrial inner membrane electron system by a glycerol-phosphate shuttle. If you try to use your brain faster than usual, lactic acid fermentation occurs as you try to produce energy even when the electron transport system is not sufficiently restored. Lactic acid is the main cause of fatigue. **The brain uses 20% of the total oxygen consumption, so lactic acid fatigue will be considerable. And the lactic acid is known to be excreted out of the brain during the break.**** 
+#### **4-2. Physiology**
 
-○ Can we make a real-time blood pressure monitor?
+> ○ Why does it taste different when you're full and hungry?
 
-**➜** **It has been implemented in smartwatches such as the Mi watch.**
+>> **➜ Appetite-regulating hormones including leptin, PYY, CCK, etc are involved in the linkage between taste and hunger.**
 
-○ What is the scientific meaning of the word "blood boiling"?
+> ○ Why is it easier for humans to recognize two dimensions than three dimensions?
 
-**➜ Sympathetic nerves become active, and in this case, heart rate increases, vessel contracts, and blood pressure increases, giving the feeling of blood boiling.**
+>> **➜ The world is three-dimensional, and the first dimension is consumed in the process of forming an image on the retina through the pupil.**
 
-○ Can people fix their eyesight without surgery?
+> ○ What factors determine your voice besides your physique?
 
-○ Is there a relationship between bone sound and growth stage?
+>> **➜ The trembling of the vocal cords is the voice, so the thickness and arrangement of the muscles are important.**
 
-○ Is there a case where the secretory duct does not secrete directly into the secretory site and sends it out through the skin?
+> ○ Why is it difficult to do repetitive things when you try to do them without thinking about them? For example, if you think, "how am I doing this?", you can't do what you've been doing repeatedly.
 
-○ When you pee after eating food, the color is different, but what are the reason and tendencies?  
-○ Food doesn't make tolerance, but medicine can easily make tolerance. Then, do medicines like food make tolerance?
+>> **➜ Because the cerebellum is trying to do what the cerebellum was doing well.**
 
-○ Is the skin tissue that makes up the reproductive system different from the general skin tissue?
+> ○ Why does exercise suppress digestion? 
 
-○ Why do you sneeze twice?
+>> **➜ The sympathetic nerves that are activated by exercise inhibit the digestive activity**
 
-○ Why does it itch when mosquitoes bite you?
+> ○ Why is your body tired if you use your brain a lot?
 
-○ It seems that saliva of special ingredients is secreted when eating very spicy food. Is it right?
+>> **➜ Glucose can pass BBB and it is quickly absorbed by neurons expressing GLUT1. After that, the glycolysis occurs in the cytoplasm, and the cytoplasmic NADH is rapidly transferred to the mitochondrial inner membrane electron system by a glycerol-phosphate shuttle. If you try to use your brain faster than usual, lactic acid fermentation occurs as you try to produce energy even when the electron transport system is not sufficiently restored. Lactic acid is the main cause of fatigue. **The brain uses 20% of the total oxygen consumption, so lactic acid fatigue will be considerable. And the lactic acid is known to be excreted out of the brain during the break.**** 
 
-○ Sometimes, saliva of special taste seems to be secreted along with extreme catharsis. What is the ingredient and why is it secreted?
+> ○ Can we make a real-time blood pressure monitor?
 
-○ What is the purpose of several deep-cut gaps that are larger than the taste buds seen in the human tongue?
+>> **➜** **It has been implemented in smartwatches such as the Mi watch.**
 
-○ What is the identity of the structure that looks like a pair of antennae under the human tongue?
+> ○ What is the scientific meaning of the word "blood boiling"?
 
-○ The reason why the skin is different from other skin when the skin cracks and new skin grows. Let's think of a blister.
+>> **➜ Sympathetic nerves become active, and in this case, heart rate increases, vessel contracts, and blood pressure increases, giving the feeling of blood boiling.**
 
-○ The reason why it gets bumpy if you keep scratching your skin
+> ○ Can people fix their eyesight without surgery?
 
-○ How do you deal with chronic shoulder and knee pain in the elderly?
+> ○ Is there a relationship between bone sound and growth stage?
 
-○ Is covering the forelock the cause of the forehead trouble? 두피는 왜 트러블이 적은가?Why does my scalp have less skin trouble?
+> ○ Is there a case where the secretory duct does not secrete directly into the secretory site and sends it out through the skin?
 
-○ Why do people who are worried often turn their pens?
+> ○ When you pee after eating food, the color is different, but what are the reason and tendencies?  
 
-○ A human brain can be defined as coordinates, but can it assign a coordinate system to the entire human body or insects?
+> ○ Food doesn't make tolerance, but medicine can easily make tolerance. Then, do medicines like food make tolerance?
 
-○ Why do you have fewer hiccups when you become an adult?
+> ○ Is the skin tissue that makes up the reproductive system different from the general skin tissue?
 
-○ When does muscle pain occur and when does it go away? Stretching after exercise prevents muscle pain.
+> ○ Why do you sneeze twice?
 
-○ High humidity makes your eyesight worse. Is it right?
+> ○ Why does it itch when mosquitoes bite you?
 
-○ What if the inside of the blood vessel is illuminated with light?
+> ○ It seems that saliva of special ingredients is secreted when eating very spicy food. Is it right?
 
-○ Relationship between gas pressure and feces in the intestines?
+> ○ Sometimes, saliva of special taste seems to be secreted along with extreme catharsis. What is the ingredient and why is it secreted?
 
-○ Why does something sour remain in your mouth if you sleep without brushing your teeth?
+> ○ What is the purpose of several deep-cut gaps that are larger than the taste buds seen in the human tongue?
 
-○ Wouldn't it be possible to test microcontroller device by developing the plant hormone auxin experiment?
+> ○ What is the identity of the structure that looks like a pair of antennae under the human tongue?
 
-○ Does the Earth's magnetic field affect people?
+> ○ The reason why the skin is different from other skin when the skin cracks and new skin grows. Let's think of a blister.
 
-○ When you stay up all night, hormones that keep you awake seem to be secreted. Is it right?
+> ○ The reason why it gets bumpy if you keep scratching your skin
 
-○ Why do you have to pee when your toes are cold?
+> ○ How do you deal with chronic shoulder and knee pain in the elderly?
 
-○ Is your first breath right after birth inhale or exhale?
+> ○ Is covering the forelock the cause of the forehead trouble? 두피는 왜 트러블이 적은가?Why does my scalp have less skin trouble?
 
-○ Does alcohol cause muscle loss?
+> ○ Why do people who are worried often turn their pens?
 
-○ It is widely accepted that the reason why vision deteriorates as people get older is that there is a factor that makes the lens thicker in modern society. However, some people say that as the brain capacity increases as it grows, the head grows back and forth, the retina moves back, and the image forms in front of the retina. The increase in brain capacity is a phenomenon that occurred with the evolution of mankind, and primitive humans must have increased brain capacity. If vision deteriorates due to increased brain capacity, it will be fatal to the survival of primitive humans. Thus, wasn't the mid-to-late teens by which vision didn't deteriorate the lifespan of primitive people?
+> ○ A human brain can be defined as coordinates, but can it assign a coordinate system to the entire human body or insects?
 
-○ Fitness sensor for pregnant women?
+> ○ Why do you have fewer hiccups when you become an adult?
 
-○ Can't we make a partial MRI to check the degree of sprained leg and the progress of recovery?
+> ○ When does muscle pain occur and when does it go away? Stretching after exercise prevents muscle pain.
 
-○ Is there an invention that prevents your feet from getting sweaty?
+> ○ High humidity makes your eyesight worse. Is it right?
 
-○ Does exercising make the diuretic effect more active just as the sweating effect becomes active? If so, is the reason why the diuretic effect becomes actively related to the fact that the blood pressure increases?
+> ○ What if the inside of the blood vessel is illuminated with light?
 
-○ It is well known that boys are born 1.05 times more than girls. Is it because having XX chromosomes is more likely to develop chromosomal mutations than having XY chromosomes?
+> ○ Relationship between gas pressure and feces in the intestines?
 
-○ Is there any special reason or coincidence that Putin only has daughters and Musk only has sons? For similar examples, there were especially many queens in the Silla period in the Republic of Korea, Queen Elizabeth's family had many women, Lim Chang-Jung had only 5 sons even if his wives were different, and surgeons are likely to have daughters. For a slightly different example, parents of twins are likely to have twins again.
+> ○ Why does something sour remain in your mouth if you sleep without brushing your teeth?
 
-○ Why are there more women than men in Russia? Does the cold affect that?
+> ○ Wouldn't it be possible to test microcontroller device by developing the plant hormone auxin experiment?
 
-○ Is it because of the ice age that Asians have small body terminals?
+> ○ Does the Earth's magnetic field affect people?
 
-○ Why do excretion and elimination occur simultaneously in many cases?
+> ○ When you stay up all night, hormones that keep you awake seem to be secreted. Is it right?
 
-○ Which uses more energy, the left brain or the right brain?
+> ○ Why do you have to pee when your toes are cold?
 
-○ Which part of the human body recognizes air pressure?
+> ○ Is your first breath right after birth inhale or exhale?
 
-○ Why do people feel less tired the more people exercise? The compensation circuit by dopamine, the awakening circuit, and the increase in energy metabolic efficiency will be related.
+> ○ Does alcohol cause muscle loss?
 
-○ Can't we do a colon test without taking enema?
+> ○ It is widely accepted that the reason why vision deteriorates as people get older is that there is a factor that makes the lens thicker in modern society. However, some people say that as the brain capacity increases as it grows, the head grows back and forth, the retina moves back, and the image forms in front of the retina. The increase in brain capacity is a phenomenon that occurred with the evolution of mankind, and primitive humans must have increased brain capacity. If vision deteriorates due to increased brain capacity, it will be fatal to the survival of primitive humans. Thus, wasn't the mid-to-late teens by which vision didn't deteriorate the lifespan of primitive people?
 
-○ What is the sense of itching?
+> ○ Fitness sensor for pregnant women?
 
-**4-3. Molecular Biology**
+> ○ Can't we make a partial MRI to check the degree of sprained leg and the progress of recovery?
 
-○ How to kill a prion?
+> ○ Is there an invention that prevents your feet from getting sweaty?
 
-**➜ Prions are proteins, so you can use proteases. However, seeing that they endure such a high fever, it seems necessary to worry.**
+> ○ Does exercising make the diuretic effect more active just as the sweating effect becomes active? If so, is the reason why the diuretic effect becomes actively related to the fact that the blood pressure increases?
 
-○ Why does the prion change its structure? And what is the function?
+> ○ It is well known that boys are born 1.05 times more than girls. Is it because having XX chromosomes is more likely to develop chromosomal mutations than having XY chromosomes?
 
-○ Why is the DNA in the germ cells stable when it is a single strand?
+> ○ Is there any special reason or coincidence that Putin only has daughters and Musk only has sons? For similar examples, there were especially many queens in the Silla period in the Republic of Korea, Queen Elizabeth's family had many women, Lim Chang-Jung had only 5 sons even if his wives were different, and surgeons are likely to have daughters. For a slightly different example, parents of twins are likely to have twins again.
 
-○ By defining a set of genes for each signaling pathway, wouldn't it be possible to know from the DEG what signaling pathways are involved in a particular pathogenesis?
+> ○ Why are there more women than men in Russia? Does the cold affect that?
 
-○ Isn't the reason why the punctuated equilibrium theory is established is that the environment causes genetic mutations in almost the same way?
+> ○ Is it because of the ice age that Asians have small body terminals?
 
-○ Wouldn't genetic code analysis, including introns, be regarded as language analysis and analyzed by natural language processing?
+> ○ Why do excretion and elimination occur simultaneously in many cases?
 
-**4-4. Cell Theory**
+> ○ Which uses more energy, the left brain or the right brain?
 
-○ Is the mechanism of the plasmodesma similar to synaptic vesicles releasing neurotransmitters?
+> ○ Which part of the human body recognizes air pressure?
 
-○ Are there specific frequencies for each cell?
+> ○ Why do people feel less tired the more people exercise? The compensation circuit by dopamine, the awakening circuit, and the increase in energy metabolic efficiency will be related.
 
-○ There are fluorescent proteins such as GFP and td tomato, but are there fluorescent cells? If so, can they be extracted or made?
+> ○ Can't we do a colon test without taking enema?
 
-○ Why can't Tomocube see mitochondria and endoplasmic reticulum (ER)?
+> ○ What is the sense of itching?
 
-○ How can you easily make quasi-living things (coacervate, microsphere, etc.)?
+<br>
 
-○ Is the drug-resistant cell line less changed in gene expression by drug perturbation than the drug-sensitive cell line? (Ref. [Mol Cancer Ther. Fig. 3](http://lps3.aacrjournals.org.libproxy.snu.ac.kr/mct/article/3/2/111/234314/Gene-expression-correlating-with-response-to))  
+#### **4-3. Molecular Biology**
 
-**4-5. Microbiome**
+> ○ How to kill a prion?
 
-○ What is the best antibiotic at the present?
+>> **➜ Prions are proteins, so you can use proteases. However, seeing that they endure such a high fever, it seems necessary to worry.**
 
-**➜ Antiobiotics have antibacterial activity in two main ways. One class interferes with cell wall synthesis and the other class inhibits bacterial protein synthesis. Penicilin is included to the former and streptomycin to the latter. Therefore, penicilin streptomycin (PS), which is used as an antibiotic in cell experiments, blocks bacterial quite comprehensively. Plus, too good antibiotics can make super bacteria, so the FDA subsidizes sellers and prevents them from being sold on a market. It's because of later imperative uses.**
+> ○ Why does the prion change its structure? And what is the function?
 
-○ What if mold is placed on the bacterial mucosa?
+> ○ Why is the DNA in the germ cells stable when it is a single strand?
 
-○ What proteins are related to the geometry of the virus? Does it take a lot of protein to produce a regular icosahedron?
+> ○ By defining a set of genes for each signaling pathway, wouldn't it be possible to know from the DEG what signaling pathways are involved in a particular pathogenesis?
 
-○ In the case of Saprolegniales, only the part adjacent to the bread was discolored. However, in the case of adhesion mold, the entire bread was discolored. Why?
+> ○ Isn't the reason why the punctuated equilibrium theory is established is that the environment causes genetic mutations in almost the same way?
 
-○ Does the virus also produce substances that expand the plasmodesma?
+> ○ Wouldn't genetic code analysis, including introns, be regarded as language analysis and analyzed by natural language processing?
 
-○ There seem to be no insects where there is mold. Is it right?
+<br>
 
-○ Is there no mold staining method like Gram staining?
+#### **4-4. Cell Theory**
 
-○ Why does the water containing plants not mold easily?
+> ○ Is the mechanism of the plasmodesma similar to synaptic vesicles releasing neurotransmitters?
 
-○ The cause of visceral obesity is intestinal microorganisms. Can't we reversely use this to treat obesity?
+> ○ Are there specific frequencies for each cell?
 
-○ In order to make Mars viable, spreading microorganisms must be preceded. What is the best microorganism to spread first?
+> ○ There are fluorescent proteins such as GFP and td tomato, but are there fluorescent cells? If so, can they be extracted or made?
 
-○ Are there any antibiotics that target hopanoid that most bacteria synthesize instead of cholesterol?
+> ○ Why can't Tomocube see mitochondria and endoplasmic reticulum (ER)?
 
-**4-6. Brain Science**
+> ○ How can you easily make quasi-living things (coacervate, microsphere, etc.)?
 
-○ What is the model that explains the brain's ability to incall?
+> ○ Is the drug-resistant cell line less changed in gene expression by drug perturbation than the drug-sensitive cell line? (Ref. [Mol Cancer Ther. Fig. 3](http://lps3.aacrjournals.org.libproxy.snu.ac.kr/mct/article/3/2/111/234314/Gene-expression-correlating-with-response-to))  
 
-○ Does the unconsciousness in the movie "Inception" reflect the truth?
+<br>
 
-○ Can I hypnotize myself with music?
+#### **4-5. Microbiome**
 
-○ Reducing the PPL exposure time in advertising by frame (instead, increasing the frequency) unconsciously increases the preference for the product. Therefore, the minimum PPL duration has been legally determined, but wouldn't the above technique be rather recommended for music? And is such a technique effective?
+> ○ What is the best antibiotic at the present?
 
-○ Do people perform autonomic reflexes when they sleep?
+>> **➜ Antiobiotics have antibacterial activity in two main ways. One class interferes with cell wall synthesis and the other class inhibits bacterial protein synthesis. Penicilin is included to the former and streptomycin to the latter. Therefore, penicilin streptomycin (PS), which is used as an antibiotic in cell experiments, blocks bacterial quite comprehensively. Plus, too good antibiotics can make super bacteria, so the FDA subsidizes sellers and prevents them from being sold on a market. It's because of later imperative uses.**
 
-○ Under what conditions do people wake up?
+> ○ What if mold is placed on the bacterial mucosa?
 
-○ Why do you feel hot when you put your face to the other person?
+> ○ What proteins are related to the geometry of the virus? Does it take a lot of protein to produce a regular icosahedron?
 
-○ Do people feel pain right before they die?  
+> ○ In the case of Saprolegniales, only the part adjacent to the bread was discolored. However, in the case of adhesion mold, the entire bread was discolored. Why?
 
-○ Have you ever felt that alcohol is concentrated on one side of your head?  
+> ○ Does the virus also produce substances that expand the plasmodesma?
 
-○ Can unconsciousness be defined?
+> ○ There seem to be no insects where there is mold. Is it right?
 
-○ In order to increase the efficiency of information search, do you hierarchize information and store it in the brain? If so, when you want to memorize it better, saving it at the bottom is efficient, right?
+> ○ Is there no mold staining method like Gram staining?
 
-○ How do you memorize it? Like that if you memorize it in a specific way, you can memorize it very well.
+> ○ Why does the water containing plants not mold easily?
 
-○ What is the difference between deep learning and the human brain? We create a brain so that the network changes.
+> ○ The cause of visceral obesity is intestinal microorganisms. Can't we reversely use this to treat obesity?
 
-○ What pattern do people appear when they are asked to express random numbers? Like a concentrated pattern of numbers.
+> ○ In order to make Mars viable, spreading microorganisms must be preceded. What is the best microorganism to spread first?
 
-○ Can you make a device to record your dreams?
+> ○ Are there any antibiotics that target hopanoid that most bacteria synthesize instead of cholesterol?
 
-○ Is the data structure most similar to the human cognitive structure of a tree?
+#### **4-6. Brain Science**
 
-○ Why do you have more fun in the field you know better?
+> ○ What is the model that explains the brain's ability to incall?
 
-○ Does human free will exist? In other words, are humans really different from robots that simply respond to external stimuli? Or, can humans go against causality?
+> ○ Does the unconsciousness in the movie "Inception" reflect the truth?
 
-○ Is it the same process to find out the wrong facts and to feel something different?
+> ○ Can I hypnotize myself with music?
 
-○ Some people are easy to translate Korean into English, while others are easy to translate English into Korean. Doesn't this mean that the act of translation is one-way?
+> ○ Reducing the PPL exposure time in advertising by frame (instead, increasing the frequency) unconsciously increases the preference for the product. Therefore, the minimum PPL duration has been legally determined, but wouldn't the above technique be rather recommended for music? And is such a technique effective?
 
-○ In order to clone the human brain, it is necessary to clone the glial cells, and to clone the glial cells, it is necessary to clone the glial cells of the glial cells. Is it possible and meaningful to clone humans?
+> ○ Do people perform autonomic reflexes when they sleep?
 
-○ Is there such a thing as memory complexity, like time complexity?
+> ○ Under what conditions do people wake up?
 
-○ Does a boredom come from a lack of imagination and self-motivation?
+> ○ Why do you feel hot when you put your face to the other person?
 
-○ Is meditation between sleep and awake? For example, if you meditate, the amount of sleep you need may be reduced.
+> ○ Do people feel pain right before they die?  
 
-○ Is sleep a third state in which both sympathetic and parasympathetic nerves are inactive?
+> ○ Have you ever felt that alcohol is concentrated on one side of your head?  
 
-○ Why do people fall asleep while reading a book? And why can they read better if they sleep?
+> ○ Can unconsciousness be defined?
 
-**4-7. Social behaviroal science**
+> ○ In order to increase the efficiency of information search, do you hierarchize information and store it in the brain? If so, when you want to memorize it better, saving it at the bottom is efficient, right?
 
-○ Why is Heinrich's law (1:29:300's law) valid? Is the clue inside our brain?
+> ○ How do you memorize it? Like that if you memorize it in a specific way, you can memorize it very well.
 
-**4-8. Pathology**
+> ○ What is the difference between deep learning and the human brain? We create a brain so that the network changes.
 
-○ Wouldn't it be possible to treat cancer by blocking new blood vessels that lead to cancer cells?
+> ○ What pattern do people appear when they are asked to express random numbers? Like a concentrated pattern of numbers.
 
-**➜ In fact, many drugs such as temozolomide and bevacizumab target the angiogenesis of cancer cells to treat cancer cells.**
+> ○ Can you make a device to record your dreams?
 
-○ Why is the anti-inflammatory (M2) macrophage peripheral to the tumor? What are the benefits of cancer cells and M2 macrophages?
+> ○ Is the data structure most similar to the human cognitive structure of a tree?
 
-**➜ Tumors secrete chemicals that induce angiogenesis so that blood vessels grow into tumors. And macrophages secrete digestive enzymes to break down surrounding cells and extracellular matrix and make way for blood vessels. The real benefit of macrophages is oxygen and nutrients from blood vessels.** 
+> ○ Why do you have more fun in the field you know better?
 
-○ Is the high frequency of intestinal trouble and colorectal cancer caused by lack of sleep due to the intestinal nervous sytem?
+> ○ Does human free will exist? In other words, are humans really different from robots that simply respond to external stimuli? Or, can humans go against causality?
 
-**4-9. Bioinformatics**
+> ○ Is it the same process to find out the wrong facts and to feel something different?
 
-○ Are 3D genetics sequencing and 3D transcriptomics sequencing possible?
+> ○ Some people are easy to translate Korean into English, while others are easy to translate English into Korean. Doesn't this mean that the act of translation is one-way?
 
-**➜ In 2020, 2D spatial-resolved transcriptomics was selected as the technology of the year in Nature, and soon [a paper](https://www.science.org/doi/10.1126/sciadv.abb3446?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) has been reported that built a 3D spatial transcriptomics by stacking the 2D spatial transcriptomics of the mouse's brain. It seems that it is not far away to create **commercialized artificial organs (organoids) by c**ombining this transcriptomics-wide information with 3D printing.**
+> ○ In order to clone the human brain, it is necessary to clone the glial cells, and to clone the glial cells, it is necessary to clone the glial cells of the glial cells. Is it possible and meaningful to clone humans?
 
-○ Is it possible to realize temporal sequencing (longitudinal sequencing, live-cell sequencing)?
+> ○ Is there such a thing as memory complexity, like time complexity?
 
-**➜ It was realized in [a paper of Nature 2022](https://www.nature.com/articles/s41586-022-05046-9).**  
+> ○ Does a boredom come from a lack of imagination and self-motivation?
 
-○ Can we build an algorithm that efficiently constructs cell type marker genes based on paper? To remove old or inaccurate markers, you will need to select the most recent and frequent markers.
+> ○ Is meditation between sleep and awake? For example, if you meditate, the amount of sleep you need may be reduced.
 
-○ Does humans store information not only through the brain that takes a deep learning strategy but also other organs through the structure itself? This is because it has complexity and inhomogeneity that cannot be explained purely by DNA. And data on learning organs will be given from the environment. As deep learning has considerable learning power because it gives each node a degree of freedom, wouldn't biology give a degree of freedom to each cell type?
+> ○ Is sleep a third state in which both sympathetic and parasympathetic nerves are inactive?
 
-○ According to the central dogma, DNA, RNA, and protein are the basic principles of life, but DNA is too uniform and protein is too diverse. So shouldn't the basis of bioinformatics be RNA?
+> ○ Why do people fall asleep while reading a book? And why can they read better if they sleep?
 
-**5\. Earth Science [\[Head\]](#footnote_67_54)** 
+<br>
 
-○ What is the one thing you need the most if you go to the desert? (Interview) 
+#### **4-7. Social behaviroal science**
 
-**➜ It can be explained by dividing it into objects to protect people and objects to improve deserts. In the desert, albedo is considerably higher than forest and sea, so physical damage due to light is expected. For example, strong light can cause blindness and skin cancer, so you should take sunglasses and sunscreen. Also, water to prevent dehydration, nutritional supplements to prevent exhaustion, and safety equipment to prevent loss of feet are needed. However, these measures are short-term and what is really needed is long-term measure. To improve deserts, living organisms with strong vitality and high moisture content such as moss and fungi should be dominant species. In addition, it is possible to modify the land's microbiome to be moisture-friendly species (_e.g._, E.coli).**
+> ○ Why is Heinrich's law (1:29:300's law) valid? Is the clue inside our brain?
 
-○ What industry will emerge when mankind reaches Mars?
+<br>
 
-**➜ It is important to exploit resources on Mars, and it seems more realistic to transport organic materials than heavy metals by spaceships. Organic material can be used as food, but it can also be used an energy source. Energy source is important because it can be sold on Earth or used for spaceships. In order to realize such agriculture, completely unmanned agriculture and plants growing on Mars will be a hot topic.**
+#### **4-8. Pathology**
 
-○ Is the Bermuda Triangle related to a geological activity?
+> ○ Wouldn't it be possible to treat cancer by blocking new blood vessels that lead to cancer cells?
 
-○ Why is the South Pole colder than the North Pole?
+>> **➜ In fact, many drugs such as temozolomide and bevacizumab target the angiogenesis of cancer cells to treat cancer cells.**
 
-○ Why is it when it rains heavily in some places and it doesn't rain right next to it?
+> ○ Why is the anti-inflammatory (M2) macrophage peripheral to the tumor? What are the benefits of cancer cells and M2 macrophages?
 
-○ Is an eye of a typhoon a differentiable singularity point?
+>> **➜ Tumors secrete chemicals that induce angiogenesis so that blood vessels grow into tumors. And macrophages secrete digestive enzymes to break down surrounding cells and extracellular matrix and make way for blood vessels. The real benefit of macrophages is oxygen and nutrients from blood vessels.** 
 
-○ Why is a cloudy evening brighter? Is it related to scattering?
+> ○ Is the high frequency of intestinal trouble and colorectal cancer caused by lack of sleep due to the intestinal nervous sytem?
 
-○ Why is the sinkhold round?
+<br>
 
-○ Why is the ozone hole on the South Pole?
+#### **4-9. Bioinformatics**
 
-**6\. Computer Science [\[Head\]](#footnote_67_55)**
+> ○ Are 3D genetics sequencing and 3D transcriptomics sequencing possible?
 
-**6-1. Algorithm**
+>> **➜ In 2020, 2D spatial-resolved transcriptomics was selected as the technology of the year in Nature, and soon [a paper](https://www.science.org/doi/10.1126/sciadv.abb3446?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) has been reported that built a 3D spatial transcriptomics by stacking the 2D spatial transcriptomics of the mouse's brain. It seems that it is not far away to create **commercialized artificial organs (organoids) by c**ombining this transcriptomics-wide information with 3D printing.**
 
-○ Why can we get a clean image from the noisy image through the deep image priority (DIP) fundamentally?
+> ○ Is it possible to realize temporal sequencing (longitudinal sequencing, live-cell sequencing)?
 
-**➜ Many people say that CNN has its own correction function, so it does not learn the given input in a strict way, but creates a flexible image that approaches the truth. But I think it's more profound than that, because it creates information that doesn't exist. For the most basic reason, it is because there are many simple and repetitive structures in nature.**
+>> **➜ It was realized in [a paper of Nature 2022](https://www.nature.com/articles/s41586-022-05046-9).**  
 
-○ Can artificial intelligence with free will be realized?
+> ○ Can we build an algorithm that efficiently constructs cell type marker genes based on paper? To remove old or inaccurate markers, you will need to select the most recent and frequent markers.
 
-○ Use the statistical distribution on the black background when making an algorithm that takes a specific silhouette from the black background.
+> ○ Does humans store information not only through the brain that takes a deep learning strategy but also other organs through the structure itself? This is because it has complexity and inhomogeneity that cannot be explained purely by DNA. And data on learning organs will be given from the environment. As deep learning has considerable learning power because it gives each node a degree of freedom, wouldn't biology give a degree of freedom to each cell type?
 
-○ Next-generation SNS implemented through virtual reality and metaverse.
+> ○ According to the central dogma, DNA, RNA, and protein are the basic principles of life, but DNA is too uniform and protein is too diverse. So shouldn't the basis of bioinformatics be RNA?
 
-○ If you plant artificial intelligence in PowerPoint, won't it be possible to interact with the presentation material program while presenting?
+<br>
+<br>
 
-○ In order to align image objects with PowerPoint, it is not easy to customize. Are there any programs or artificial intelligence algorithms that automatically match this?
+## **5\. Earth Science** 
 
-○ Is it possible to create a service that erases personal information online? A digital undertaker. There may be a disadvantage that it can be abused in crime.
+> ○ What is the one thing you need the most if you go to the desert? (Interview) 
 
-○ A system that forgets if we don't use it often.
+>> **➜ It can be explained by dividing it into objects to protect people and objects to improve deserts. In the desert, albedo is considerably higher than forest and sea, so physical damage due to light is expected. For example, strong light can cause blindness and skin cancer, so you should take sunglasses and sunscreen. Also, water to prevent dehydration, nutritional supplements to prevent exhaustion, and safety equipment to prevent loss of feet are needed. However, these measures are short-term and what is really needed is long-term measure. To improve deserts, living organisms with strong vitality and high moisture content such as moss and fungi should be dominant species. In addition, it is possible to modify the land's microbiome to be moisture-friendly species (_e.g._, E.coli).**
 
-○ An algorithm that generates a new image in the time between the given images of different time points? We should be cautious because simple averaging just blurs unreasonably.
+> ○ What industry will emerge when mankind reaches Mars?
 
-○ A program that automatically sets up CUDA, cuDNN, Python environment, etc.
+>> **➜ It is important to exploit resources on Mars, and it seems more realistic to transport organic materials than heavy metals by spaceships. Organic material can be used as food, but it can also be used an energy source. Energy source is important because it can be sold on Earth or used for spaceships. In order to realize such agriculture, completely unmanned agriculture and plants growing on Mars will be a hot topic.**
 
-**6-2. Big Data**
+> ○ Is the Bermuda Triangle related to a geological activity?
 
-○ There is a problem that CCTVs or black boxes take up a lot of capacity, so wouldn't it be useful if there is an algorithm that extracts and stores only the necessary parts with AI?
+> ○ Why is the South Pole colder than the North Pole?
 
-○ Making databases for all existing dictionaries.
+> ○ Why is it when it rains heavily in some places and it doesn't rain right next to it?
 
-○ What level of redundancy is required when backing up data?
+> ○ Is an eye of a typhoon a differentiable singularity point?
 
-**6-3. IoT**
+> ○ Why is a cloudy evening brighter? Is it related to scattering?
 
-○ Wouldn't it be possible to apply it to tactics and performance through cooperation through communication between drones?
+> ○ Why is the sinkhold round?
 
-**6-4. Mobility**
+> ○ Why is the ozone hole on the South Pole?
 
-○ Is it possible to make a self-driving electric wheelchair?
+<br>
 
-○ Can I make a foldable car?
+## **6\. Computer Science [\[Head\]](#footnote_67_55)**
 
-○ Can I make a roly poly bike?
+#### **6-1. Algorithm**
 
-○ Why does the car move back and forth only? Can't we move left and right to make parallel parking easier?
+> ○ Why can we get a clean image from the noisy image through the deep image priority (DIP) fundamentally?
 
-○ Can't the wipers of the car wipe the whole glass?
+>> **➜ Many people say that CNN has its own correction function, so it does not learn the given input in a strict way, but creates a flexible image that approaches the truth. But I think it's more profound than that, because it creates information that doesn't exist. For the most basic reason, it is because there are many simple and repetitive structures in nature.**
 
-**6-5. Robots**
+> ○ Can artificial intelligence with free will be realized?
 
-○ Can you make a robot that imitates Matryushika?
+> ○ Use the statistical distribution on the black background when making an algorithm that takes a specific silhouette from the black background.
 
-○ Is it possible to make a robot that charges itself?
+> ○ Next-generation SNS implemented through virtual reality and metaverse.
 
-○ Can we make a robot that removes mosquito larvae?
+> ○ If you plant artificial intelligence in PowerPoint, won't it be possible to interact with the presentation material program while presenting?
 
-○ Can you make a device that imitates the skeleton of an insect?
+> ○ In order to align image objects with PowerPoint, it is not easy to customize. Are there any programs or artificial intelligence algorithms that automatically match this?
 
-○ Can you make a machine that can stick to the ceiling like a fly? Drones are not recommended because they consume a lot of energy.
+> ○ Is it possible to create a service that erases personal information online? A digital undertaker. There may be a disadvantage that it can be abused in crime.
 
-**6-6. Drone**
+> ○ A system that forgets if we don't use it often.
 
-○ What if you could attach a drone to the ceiling with glue?
+> ○ An algorithm that generates a new image in the time between the given images of different time points? We should be cautious because simple averaging just blurs unreasonably.
 
-○ What if the drone could solve the maze?
+> ○ A program that automatically sets up CUDA, cuDNN, Python environment, etc.
 
-○ What if we made a device to scan the inside by flying hundreds of drones before the ship sank?
+<br>
 
-○ Moving camera. I think the response will be okay just by attaching the camera to the drone and adjusting the location remotely.
+#### **6-2. Big Data**
 
-○ Wouldn't it be possible to take pictures without a camera holder with a multi-propeller drone?
+> ○ There is a problem that CCTVs or black boxes take up a lot of capacity, so wouldn't it be useful if there is an algorithm that extracts and stores only the necessary parts with AI?
 
-**7\. Appropriate Technology [\[Head\]](#footnote_67_56)**
+> ○ Making databases for all existing dictionaries.
 
-○ Is it possible to make a calculator for the visually impaired?
+> ○ What level of redundancy is required when backing up data?
 
-○ A technology that allows you to play soccer by making virtual feet, so that you can play soccer without legs. Wouldn't it be possible to implement it in virtual reality?
+<br>
 
-○ Wouldn't it be possible to make braille devices for the visually impaired if you make braille protrusions with the rotational force of the motor?
+#### **6-3. IoT**
 
-○ Wouldn't it be possible to contribute to wheelchair soccer for the disabled if a protruding device is made with the rotational force of the motor?
+> ○ Wouldn't it be possible to apply it to tactics and performance through cooperation through communication between drones?
 
-○ Can't braille display for some device buttons be applied in daily life? Icon T-shirts, microphone shapes, etc.
+<br>
 
-**8. Environment [\[Head\]](#footnote_67_57)**
+#### **6-4. Mobility**
 
-○ What is the solution to the Pacific garbage island?
+> ○ Is it possible to make a self-driving electric wheelchair?
 
-○ Vinyl for umbrella cover is provided before entering the room on a rainy day. The amount of garbage in this plastic bag is enormous. Can't you replace it with other ingredients?
+> ○ Can I make a foldable car?
 
-○ Can't the objects around the trash can be clean?
+> ○ Can I make a roly poly bike?
+
+> ○ Why does the car move back and forth only? Can't we move left and right to make parallel parking easier?
+
+> ○ Can't the wipers of the car wipe the whole glass?
+
+<br>
+
+#### **6-5. Robots**
+
+> ○ Can you make a robot that imitates Matryushika?
+
+> ○ Is it possible to make a robot that charges itself?
+
+> ○ Can we make a robot that removes mosquito larvae?
+
+> ○ Can you make a device that imitates the skeleton of an insect?
+
+> ○ Can you make a machine that can stick to the ceiling like a fly? Drones are not recommended because they consume a lot of energy.
+
+<br>
+
+#### **6-6. Drone**
+
+> ○ What if you could attach a drone to the ceiling with glue?
+
+> ○ What if the drone could solve the maze?
+
+> ○ What if we made a device to scan the inside by flying hundreds of drones before the ship sank?
+
+> ○ Moving camera. I think the response will be okay just by attaching the camera to the drone and adjusting the location remotely.
+
+> ○ Wouldn't it be possible to take pictures without a camera holder with a multi-propeller drone?
+
+<br>
+<br>
+
+## **7\. Appropriate Technology**
+
+> ○ Is it possible to make a calculator for the visually impaired?
+
+> ○ A technology that allows you to play soccer by making virtual feet, so that you can play soccer without legs. Wouldn't it be possible to implement it in virtual reality?
+
+> ○ Wouldn't it be possible to make braille devices for the visually impaired if you make braille protrusions with the rotational force of the motor?
+
+> ○ Wouldn't it be possible to contribute to wheelchair soccer for the disabled if a protruding device is made with the rotational force of the motor?
+
+> ○ Can't braille display for some device buttons be applied in daily life? Icon T-shirts, microphone shapes, etc.
+
+<br>
+<br>
+
+## **8. Environment**
+
+> ○ What is the solution to the Pacific garbage island?
+
+> ○ Vinyl for umbrella cover is provided before entering the room on a rainy day. The amount of garbage in this plastic bag is enormous. Can't you replace it with other ingredients?
+
+> ○ Can't the objects around the trash can be clean?
+
+<br>
+
+---
+
+<br>
 
 Input: 2015.10.27 07:50
 
