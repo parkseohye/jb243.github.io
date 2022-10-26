@@ -63,3 +63,7 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+  
+  
+# I added all the below
+google_analytics: G-0G7H5JFYB9
