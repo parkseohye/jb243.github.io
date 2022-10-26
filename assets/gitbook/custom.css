@@ -256,6 +256,11 @@
     color: var(--c-danger-title);
 }
 
+/* I added */
+blockquote {
+    color: #000000;
+}
+
 :root {
     --c-tip: #42b983;
     --c-tip-bg: #e2f5ec;
