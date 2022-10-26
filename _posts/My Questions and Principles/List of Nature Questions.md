@@ -1,6 +1,6 @@
 ## **List of Science Questions**
 
-Higher category**:** 【Philosophy】 [My Questions and Principles](https://classroom.tistory.com/80)
+Higher category **:** 【Philosophy】 [My Questions and Principles](https://classroom.tistory.com/80)
 
 [originally written in Korean](https://nate9389.tistory.com/242) 
 
