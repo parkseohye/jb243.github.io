@@ -1,4 +1,4 @@
-**List of Science Questions**
+## **List of Science Questions**
 
 Higher category**:** 【Philosophy】 [My Questions and Principles](https://classroom.tistory.com/80)
 
@@ -24,11 +24,15 @@ Higher category**:** 【Philosophy】 [My Questions and Principles](https://clas
 
 ---
 
+<br>
+
 ※ Resolved subjects are displayed lightly.
 
 ※ They can be used as a list of research topics, invention topics, and interview questions.
 
 ※ Last update**:** 22.10.23
+
+<br>
 
 **1\. Mathematics [\[Head\]](#footnote_67_50)**
 
