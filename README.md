@@ -65,7 +65,7 @@ This is a blog that started out as a diary (since 2009). However, through this b
 
 >> ○ You can think of the contents of the core concept as a point note for studying for the exam.
 
->> ○ To understand the exact definition of the core concept, refer to the surprisal (https://nate9389.tistory.com/2145#:~:text=%E2%91%A1%C2%A0uncertainty%20%EB%98%90%EB%8A%94-,surprisal,-%E2%97%8B%20%EC%A0%95%EC%9D%98%20%3A%20%EC%A3%BC%EC%96%B4%EC%A7%84%20%EA%B2%BD%EC%9A%B0%EC%9D%98) of information theory.
+>> ○ To understand the exact definition of the core concept, refer to the [surprisal](https://nate9389.tistory.com/2145#:~:text=%E2%91%A1%C2%A0uncertainty%20%EB%98%90%EB%8A%94-,surprisal,-%E2%97%8B%20%EC%A0%95%EC%9D%98%20%3A%20%EC%A3%BC%EC%96%B4%EC%A7%84%20%EA%B2%BD%EC%9A%B0%EC%9D%98) of information theory.
 
 <br>
 
