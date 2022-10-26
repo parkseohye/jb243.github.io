@@ -1,5 +1,10 @@
-## Knowledge must be equal
-
+<center>
+<img src="https://user-images.githubusercontent.com/55747737/198065486-7c88b470-38b7-49c6-8a83-62a04e8a9409.png" alt="drawing" style="width:400px;"/>
+</center>
+  <br>
+<center>
+Knowledge must be equal
+</center>
 <br> 
 
 ## 1. Before entering,
@@ -80,6 +85,11 @@ This is a blog that started out as a diary (since 2009). However, through this b
 
 > ○ The current blog has the nature of an attempt to preserve human knowledge when human knowledge is lost.
 
+<br>
+<center>
+<img src="https://user-images.githubusercontent.com/55747737/198065823-22e80414-2321-47e7-92c7-c6eb595c57d5.png" alt="drawing" style="width:400px;"/>
+</center>
+<br>
 <center>
 Annie Dr. Stone also showed me a similar idea.
 Figure 1. Annie Dr. Stone Illustration
@@ -194,9 +204,16 @@ Figure 1. Annie Dr. Stone Illustration
 
 > The law must not only have equal effects, but also equal interests.ideas conceived for the legal maturity of all mankind.We can secure all legal documents in our country through the National Legal Information Center, and in this way, we can secure all legal documents around the world.In addition, collecting all the citation provisions in the provisions will ensure the interconnection of all legal texts, that is, the network.Then, if you run the clustering algorithm, you will have the appropriate hierarchy.This will make it easier for anyone to quickly understand legal knowledge.
 
+<br>
 <center>
-  The results of clustering that can be easily implemented in Figure 2.R.
+<img src="https://user-images.githubusercontent.com/55747737/198066094-18c02888-495d-4f46-91ff-a049b4577210.png" alt="drawing" style="width:400px;"/>
 </center>
+<br>
+
+<center>
+  Figure. 2. The results of clustering that can be easily implemented in R
+</center>
+<br>
 
 > ○ There are 1,580 laws in Korea (as of 2022), and there may be constitution, orders, ordinances, and rules, so thousands of posts will be created.
 
@@ -229,6 +246,12 @@ Figure 1. Annie Dr. Stone Illustration
 
 > Some of the images posted on this blog will be reborn as 3D images.The era has finally come when it is possible to recreate 3D images through multiple 2D images through AI algorithms.
 
+<br>
+<center>
+<img src="https://user-images.githubusercontent.com/55747737/198066222-badecfce-1c18-4a9f-aa79-8a332ffc56e5.png" alt="drawing" style="width:400px;"/>
+</center>
+<br>
+
 <center>
 Figure. 3. Building Rome in a Day1]
 </center>
@@ -237,13 +260,26 @@ Figure. 3. Building Rome in a Day1]
 
 > In addition, the era has come when it is possible to reconstruct the existing image into the style you want.Through this, it is expected to post a more appropriate image and resolve much of the copyright-related disputes.
 
+<br>
 <center>
-Figure 4. Google Style Transfer
+<img src="https://user-images.githubusercontent.com/55747737/198066307-2956c724-2229-415a-a082-ff64b6fc4906.png" alt="drawing" style="width:400px;"/>
 </center>
+<br>
+
+<center>
+Figure. 4. Google Style Transfer
+</center>
+ <br>
   
 #### 3-3. Image restoration(not started)
 
 > If the above discussion is extended further, it may be difficult for some images, regardless of copyright, to have watermarks or unnecessary characters, even though their quality is quite good.In this case, it will be possible to restore the part we want by utilizing the deep image prior (DIP).
+
+<br>
+<center>
+<img src="https://user-images.githubusercontent.com/55747737/198066506-50beea1b-b39a-4dea-ba54-ce98bf1b839f.png" alt="drawing" style="width:400px;"/>
+</center>
+<br>
 
 <center>
   Figure 5. Inpainting using DIP 3]
@@ -256,7 +292,7 @@ Figure 4. Google Style Transfer
 <br>
 <br>
 
-## 5. Initiative 4.complete translation project
+## 5. Initiative 4. complete translation project
 
 > ○ Limits of the Korean language market
 
@@ -269,6 +305,7 @@ Figure 4. Google Style Transfer
 > ○ Example of translation
 
 >> ○ Statistics Overview
+
 >> ○ I' wouldn't an overly perfect translation system facilitate the outflow of domestic intellectual property overseas?
 
 <br>
@@ -359,6 +396,12 @@ Figure 4. Google Style Transfer
 
 > ○ https://artsexperiments.withgoogle.com/tsnemap/
 
+<br>
+<center>
+<img src="https://user-images.githubusercontent.com/55747737/198066673-f8542cb0-66bc-4b15-bd77-9dcfb69e0ca9.png" alt="drawing" style="width:400px;"/>
+</center>
+<br>
+
 <center>
 Figure 6. A method of representing the blueprint of knowledge in tSNE.
 </center>
@@ -398,10 +441,14 @@ Figure 6. A method of representing the blueprint of knowledge in tSNE.
 
 > I will climb to the top of the world and wait for you there.
 
+<br>
+
 ---
 
+<br>
+
 Source: Sameer Agarwal, Noah Snavely, Ian Simon, Steven M. Seitz and Richard Szeliski, Building Rome in a Day.ICCV (2009).Visual Understanding and Machine Learning (2021) Instructional Materials (Professor Lee Joon-seok) [To the text]
-<br>
+
 Source: Visual understanding and machine learning (2021) Instructional materials (Professor Lee Joon-seok) [To the text]
-<br>
+
 Source: https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf [To the text]
