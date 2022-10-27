@@ -92,7 +92,7 @@ This is a blog that started out as a diary (since 2009). However, through this b
 <br>
 <center>
 Annie Dr. Stone also showed me a similar idea.
-Figure 1. Annie Dr. Stone Illustration
+Figure. 1. Annie Dr. Stone Illustration
 </center>
 <br>
 
@@ -254,8 +254,9 @@ Figure 1. Annie Dr. Stone Illustration
 <br>
 
 <center>
-Figure. 3. Building Rome in a Day1]
+Figure. 3. Building Rome in a Day
 </center>
+<br>
   
 #### 3-2 Resolution of Copyright Disputes(not started)
 
@@ -283,8 +284,9 @@ Figure. 4. Google Style Transfer
 <br>
 
 <center>
-  Figure 5. Inpainting using DIP 3]
+  Figure. 5. Inpainting using DIP 
 </center>
+<br>
   
 #### 3-4. Copyright detour strategy through image watermark development(not started)
 
@@ -404,7 +406,7 @@ Figure. 4. Google Style Transfer
 <br>
 
 <center>
-Figure 6. A method of representing the blueprint of knowledge in tSNE.
+Figure 6. A method of representing the blueprint of knowledge in tSNE
 </center>
 
 <br>
