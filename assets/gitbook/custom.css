@@ -257,7 +257,7 @@
 }
 
 /* I added */
-blockquote {
+.markdown-section blockquote {
     color: #000000;
 }
 
