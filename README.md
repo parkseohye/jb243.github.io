@@ -94,7 +94,8 @@ This is a blog that started out as a diary (since 2009). However, through this b
 Annie Dr. Stone also showed me a similar idea.
 Figure 1. Annie Dr. Stone Illustration
 </center>
-  
+<br>
+
 >> ○ As the teaching of the blockchain teaches, sharing knowledge makes knowledge forever.
 
 >> ○ Of course, we will definitely prevent the extinction of mankind and share scenarios in preparation for this.
