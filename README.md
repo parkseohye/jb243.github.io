@@ -140,6 +140,8 @@ Figure. 1. Annie Dr. Stone Illustration
 
 > AlphaFold2 database released in July 2022.With about 200 million protein structure databases, it has produced 1,000 times more protein structures in a year than humans have experimentally discovered in 50 years.Isn't AI's generation of vast amounts of data beyond the cognitive level a way to eventually move forward in acquiring content?And isn't the database for managing and withdrawing it important?I think that will be the final form of this blog.
 
+<br>
+
 #### 2-2. Next Generation Search Engine Project(not started)
 
 > I don't think we can create content for all areas here.This is because 1) securing expertise that exceeds all experts in each field is almost impossible at the moment, 2) even if it is possible through artificial intelligence, it is not desirable to threaten existing jobs without fostering new industries, and 3) dealing with all deep concepts can greatly damage beginners' understanding.
@@ -149,6 +151,8 @@ Figure. 1. Annie Dr. Stone Illustration
 > Unlike traditional search engines with graph-structured data structures and list-structured Wikipedia, this search engine is differentiated by its knowledge management system (KMS) with tree structures.I personally think the tree structure is the most similar to the human cognitive structure.Also, we are considering a private KMS that provides KMS to the company or a window that promotes government policies by providing KMS to the government.I think we need a "real" guide for hitchhikers traveling in the Milky Way...This will help 1) acquire knowledge quickly, 2) ensure the integrity of knowledge (the consistent nature of grammar and content) and non-redundant (the nature that allows only the necessary level of concept overlap), 3) communicate within the company, and 4) facilitate comparison of patent claims.
 
 > What I felt while working together from the start-up to listing is that it is more difficult than I thought to maintain the integrity of the integrity of knowledge.In this regard, I observed that 1) the results of data analysis on different days should not be different, but I didn't know what parameters made them different when they were different, 2) communication between experts in different fields was poor, and 3) only the first time I knew what knowledge was new to me. And regarding 3), I have recorded a lot of new knowledge since I was quite young, so I was able to build a tree at the current level, but people who know too much may not know what new knowledge is.
+
+<br>
 
 #### 2-3. Evolving and Living AI (not started)
 
@@ -200,6 +204,7 @@ Figure. 1. Annie Dr. Stone Illustration
 
 >> ○ We plan to create an English website through the translation pipeline and try new things on GitHub.
 
+<br>
 
 #### 2-4. Laws are equal in the presence of all. (not started)
 
@@ -222,17 +227,25 @@ Figure. 1. Annie Dr. Stone Illustration
 
 > ○ Derivative Idea 1. Wouldn't it be possible to secure a hierarchy of the current blog's knowledge system if we secure a network of posts based on the link between posts?Ideas that form the basis of the following "how to present the blueprint of human knowledge in tSNE"
 
+<br>
+
 #### 2-5. Book Network
 
 > The volume of books is too large.If I cluster all the books, can I know which one is more important and which one should I read first?
+
+<br>
 
 #### 2-6. OCR (image to text) (complete)
 
 > It has already been implemented in GOONO, so I will borrow it.This makes it easy to convert image data and publications into digital data.
 
+<br>
+
 #### 2-7. Industry Standardization System (in progress)
 
 > It is to link the data of the top experts in each field to establish industry standards.Who the first experts are selected will follow internal evaluation and will change over time.It will have an exclusive function similar to a patent and will be submitted to obtain industry standards.
+
+<br>
 
 #### 2-8. Consulting Services (in progress)
 
@@ -257,7 +270,7 @@ Figure. 1. Annie Dr. Stone Illustration
 Figure. 3. Building Rome in a Day
 </center>
 <br>
-  
+
 #### 3-2 Resolution of Copyright Disputes(not started)
 
 > In addition, the era has come when it is possible to reconstruct the existing image into the style you want.Through this, it is expected to post a more appropriate image and resolve much of the copyright-related disputes.
@@ -345,17 +358,25 @@ Figure. 4. Google Style Transfer
 
 > My curiosity is also connected with social statistics.There is a limit to the literature to understand that.Therefore, we plan to activate the Quick Toolbar pop-up window to proceed with the survey.Besides, there's nothing much to do with the voting system.According to Mecalf's law, networks have a value proportional to their square.I think that theory can also be applied to YouTube and sites.I'd like to confirm that.
 
+<br>
+
 #### 6-2. Not started
 
 > Wikipedia is a list, but knowledge must be sorted into trees. What if all knowledge is ordered?The knowledge that follows can only be explained by the knowledge in front.In that way, we can order all knowledge and create artificial intelligence that determines how many times that knowledge comes when new knowledge comes.That knowledge will automatically be placed in the right place, so that the machine can understand the new knowledge.If you have a sentence that says "A consists of B and C," you can place it right after the last of A, B, and C.It's going to take a lot of work.I'm not in a hurry right now.
+
+<br>
 
 #### 6-3. Automatically trimming the text(complete)
 
 > It has already been implemented through Python.
 
+<br>
+
 #### 6-4.Image in-link (not started)
 
 > ○ Example (www.creative-diagnostics.com)
+
+<br>
 
 #### 6-5. Simple Apps on a Blog (in progress)
 
@@ -385,6 +406,8 @@ Figure. 4. Google Style Transfer
 
 > ✗ Program for calculating the timing requirements of patents (planned)
 
+<br>
+
 #### 6-6. Database on a Blog (not started)
 
 > ○ Method 1. It is not difficult at all if you install the dataset on the NAS and turn the corresponding url over to the blog.
@@ -394,6 +417,8 @@ Figure. 4. Google Style Transfer
 > ○ However, it is a question of which dataset to share.
 
 > ○ Currently, the focus is on biological information data sets such as TCGA and GEO: A good example of UCSC Xena.
+
+<br>
 
 #### 6-7. How to present the blueprint of human knowledge in tSNE (not started)
 
@@ -418,9 +443,13 @@ Figure 6. A method of representing the blueprint of knowledge in tSNE
 
 > What if you could organize all your knowledge?What if you could put VR devices into practical use?What if you could analyze brain waves through deep learning?You will be able to make a device that acquires knowledge just by wearing it on your head like a hat.
 
+<br>
+
 #### 7-2. Generation of Knowledge
 
 > If the above discussion is expanded, it will be possible to create a device that secures the person's knowledge system just by writing it on the head.Wouldn't it be possible to realize human immortality or human computerization?
+
+<br>
 
 #### 7-3. Reorganization of Human Personality
 
